@@ -1,0 +1,280 @@
+{
+  "id": "g07-estar",
+  "titleHu": "Estar, ser vagy estar",
+  "subtitleEs": "estoy, estás, está",
+  "order": 7,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mire való?",
+      "body": "Az **estar** is „lenni”, de a **helyre** és a **pillanatnyi állapotra, érzésre** használod: hol vagy, hogy vagy.\nKérdezd meg magadtól: ez most így van, de változhat? Akkor általában estar.\nJó emlékeztető: **hol és hogyan: estar. Ki, mi, milyen: ser.**"
+    },
+    {
+      "type": "table",
+      "title": "Jelen idő",
+      "columns": [
+        "",
+        "estar"
+      ],
+      "rows": [
+        [
+          "yo",
+          "estoy"
+        ],
+        [
+          "tú",
+          "estás"
+        ],
+        [
+          "él, ella, usted",
+          "está"
+        ],
+        [
+          "nosotros, nosotras",
+          "estamos"
+        ],
+        [
+          "vosotros, vosotras",
+          "estáis"
+        ],
+        [
+          "ellos, ellas, ustedes",
+          "están"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Ser vagy estar?",
+      "columns": [
+        "ser (lényeg)",
+        "estar (állapot, hely)"
+      ],
+      "rows": [
+        [
+          "Es alto. (magas)",
+          "Está enfermo. (beteg)"
+        ],
+        [
+          "Es de Madrid. (madridi)",
+          "Está en Madrid. (Madridban van)"
+        ],
+        [
+          "Es simpática. (kedves)",
+          "Está contenta. (elégedett, vidám)"
+        ],
+        [
+          "Son las tres. (idő)",
+          "Estamos cansados. (fáradtak vagyunk)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Jelentést váltó melléknevek",
+      "columns": [
+        "",
+        "ser",
+        "estar"
+      ],
+      "rows": [
+        [
+          "aburrido",
+          "unalmas",
+          "unatkozik"
+        ],
+        [
+          "listo",
+          "okos",
+          "kész, készen áll"
+        ],
+        [
+          "rico",
+          "gazdag",
+          "finom (étel)"
+        ],
+        [
+          "malo",
+          "rossz",
+          "beteg"
+        ],
+        [
+          "verde",
+          "zöld (szín)",
+          "éretlen (gyümölcs)"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Hol van?",
+      "body": "A hely mindig estar: El libro **está** en la mesa.\nEgy kivétel: esemény helye ser-rel áll: La fiesta **es** en mi casa (a buli nálam lesz)."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Estoy en casa.",
+          "hu": "Otthon vagyok."
+        },
+        {
+          "es": "¿Cómo estás? Estoy cansado.",
+          "hu": "Hogy vagy? Fáradt vagyok."
+        },
+        {
+          "es": "La biblioteca está cerca del parque.",
+          "hu": "A könyvtár a park közelében van."
+        },
+        {
+          "es": "Mi abuela está enferma.",
+          "hu": "A nagymamám beteg."
+        },
+        {
+          "es": "La película es aburrida.",
+          "hu": "A film unalmas."
+        },
+        {
+          "es": "Estoy aburrido.",
+          "hu": "Unatkozom."
+        },
+        {
+          "es": "La sopa está muy rica.",
+          "hu": "A leves nagyon finom."
+        },
+        {
+          "es": "¿Estás listo?",
+          "hu": "Kész vagy?"
+        },
+        {
+          "es": "La manzana está verde.",
+          "hu": "Az alma éretlen."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "estás, está, están ékezettel. Az esta (ékezet nélkül) azt jelenti: ez (nőnem).",
+        "Unatkozom: estoy aburrido. A soy aburrido azt jelenti: unalmas vagyok.",
+        "Soy listo = okos vagyok, estoy listo = kész vagyok.",
+        "Estoy malo Spanyolországban azt jelenti: beteg vagyok.",
+        "Hol vagy? ¿Dónde estás?, nem ¿Dónde eres?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "serEstar",
+      "prompt": "Yo ___ en casa.",
+      "options": [
+        "soy",
+        "estoy"
+      ],
+      "answer": 1,
+      "explanation": "Hely: estar."
+    },
+    {
+      "id": "q2",
+      "type": "serEstar",
+      "prompt": "Mi hermano ___ alto.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "explanation": "Állandó tulajdonság: ser."
+    },
+    {
+      "id": "q3",
+      "type": "serEstar",
+      "prompt": "Hoy ___ muy cansada.",
+      "options": [
+        "soy",
+        "estoy"
+      ],
+      "answer": 1,
+      "explanation": "Pillanatnyi állapot: estar."
+    },
+    {
+      "id": "q4",
+      "type": "serEstar",
+      "prompt": "La película ___ aburrida. (unalmas)",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "explanation": "Unalmas (tulajdonság): ser aburrido."
+    },
+    {
+      "id": "q5",
+      "type": "serEstar",
+      "prompt": "Nosotros ___ aburridos. (unatkozunk)",
+      "options": [
+        "somos",
+        "estamos"
+      ],
+      "answer": 1,
+      "explanation": "Unatkozni: estar aburrido."
+    },
+    {
+      "id": "q6",
+      "type": "serEstar",
+      "prompt": "La sopa ___ muy rica. (finom)",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 1,
+      "explanation": "Étel íze most: estar rico. Ser rico = gazdagnak lenni."
+    },
+    {
+      "id": "q7",
+      "type": "multipleChoice",
+      "prompt": "Mit jelent: Estoy malo.",
+      "options": [
+        "Beteg vagyok.",
+        "Rossz ember vagyok.",
+        "Unatkozom."
+      ],
+      "answer": 0,
+      "explanation": "Spanyolországban estar malo = betegnek lenni."
+    },
+    {
+      "id": "q8",
+      "type": "fillBlank",
+      "prompt": "¿Dónde ___ el libro? (hol van)",
+      "answers": [
+        "está"
+      ],
+      "explanation": "Hely: estar."
+    },
+    {
+      "id": "q9",
+      "type": "translateToEs",
+      "prompt": "Fáradt vagyok. (férfi)",
+      "answers": [
+        "estoy cansado",
+        "yo estoy cansado"
+      ],
+      "explanation": "Állapot: estar."
+    },
+    {
+      "id": "q10",
+      "type": "translateToHu",
+      "prompt": "Estoy listo.",
+      "answers": [
+        "kész vagyok",
+        "készen állok",
+        "készen vagyok"
+      ],
+      "explanation": "Estar listo = kész lenni. Ser listo = okosnak lenni."
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": "g04-sustantivos",
+  "titleHu": "Főnevek neme és többes száma",
+  "subtitleEs": "el amigo, la amiga, los amigos",
+  "order": 4,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "A nem",
+      "body": "A magyarban nincs nyelvtani nem, a spanyolban minden főnév hím- vagy nőnemű.\nSzemélyeknél gyakran -o → -a: el amigo, la amiga. Mássalhangzó után -a jön: el profesor, la profesora.\nAz -e végű, személyt jelölő főnév nem változik, csak a névelő: **el / la estudiante**."
+    },
+    {
+      "type": "table",
+      "title": "Hím- és nőnem személyeknél",
+      "columns": [
+        "hímnem",
+        "nőnem",
+        "magyar"
+      ],
+      "rows": [
+        [
+          "el amigo",
+          "la amiga",
+          "barát, barátnő"
+        ],
+        [
+          "el hermano",
+          "la hermana",
+          "fiútestvér, lánytestvér"
+        ],
+        [
+          "el tío",
+          "la tía",
+          "nagybácsi, nagynéni"
+        ],
+        [
+          "el profesor",
+          "la profesora",
+          "tanár, tanárnő"
+        ],
+        [
+          "el novio",
+          "la novia",
+          "barát, barátnő (párkapcsolat)"
+        ],
+        [
+          "el estudiante",
+          "la estudiante",
+          "diák"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "A többes szám",
+      "body": "Magánhangzó után **+s**: la casa → las casas.\nMássalhangzó után **+es**: la ciudad → las ciudades.\n-z után **-ces**: el lápiz → los lápices.\nFigyelj az ékezetre: a hangsúly helye nem változik, ezért néha eltűnik, néha megjelenik."
+    },
+    {
+      "type": "table",
+      "title": "Többes szám",
+      "columns": [
+        "Szabály",
+        "Egyes",
+        "Többes"
+      ],
+      "rows": [
+        [
+          "magánhangzó + s",
+          "la casa",
+          "las casas"
+        ],
+        [
+          "magánhangzó + s",
+          "el libro",
+          "los libros"
+        ],
+        [
+          "mássalhangzó + es",
+          "la ciudad",
+          "las ciudades"
+        ],
+        [
+          "mássalhangzó + es",
+          "el hotel",
+          "los hoteles"
+        ],
+        [
+          "-z → -ces",
+          "el lápiz",
+          "los lápices"
+        ],
+        [
+          "eltűnő ékezet",
+          "el león",
+          "los leones"
+        ],
+        [
+          "eltűnő ékezet",
+          "la reunión",
+          "las reuniones"
+        ],
+        [
+          "új ékezet",
+          "el examen",
+          "los exámenes"
+        ],
+        [
+          "nem változik",
+          "el martes",
+          "los martes"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Vegyes csoport",
+      "body": "A hímnemű többes szám a vegyes csoportot is jelenti: **los hermanos** = testvérek (fiúk és lányok), **los padres** = szülők (apa és anya)."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Tengo dos hermanos y una hermana.",
+          "hu": "Két fiútestvérem és egy lánytestvérem van."
+        },
+        {
+          "es": "Los lápices están en la mesa.",
+          "hu": "A ceruzák az asztalon vannak."
+        },
+        {
+          "es": "Hay tres hoteles en la ciudad.",
+          "hu": "Három szálloda van a városban."
+        },
+        {
+          "es": "Mis padres viven en Hungría.",
+          "hu": "A szüleim Magyarországon élnek."
+        },
+        {
+          "es": "Los exámenes son difíciles.",
+          "hu": "A vizsgák nehezek."
+        },
+        {
+          "es": "La profesora es muy simpática.",
+          "hu": "A tanárnő nagyon kedves."
+        },
+        {
+          "es": "Las reuniones son los martes.",
+          "hu": "A megbeszélések keddenként vannak."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "lápiz → lápices: a z c-re vált.",
+        "examen → exámenes: ékezet kerül rá.",
+        "reunión → reuniones, león → leones: az ékezet eltűnik.",
+        "los padres = a szülők, nem csak az apák.",
+        "el martes → los martes: nem kap új végződést."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "fillBlank",
+      "prompt": "el lápiz → los ___",
+      "answers": [
+        "lápices"
+      ],
+      "explanation": "-z végű szónál a z c-re vált: lápices."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "el examen → los ___",
+      "answers": [
+        "exámenes"
+      ],
+      "explanation": "Ékezet kerül rá, hogy a hangsúly a helyén maradjon: e-XA-men, e-XÁ-me-nes."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "la reunión többes száma:",
+      "options": [
+        "las reuniones",
+        "las reuniónes",
+        "las reunións"
+      ],
+      "answer": 0,
+      "explanation": "Mássalhangzó után -es, és az ékezet eltűnik."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Mit jelent: los padres?",
+      "options": [
+        "a szülők",
+        "az apák",
+        "a testvérek"
+      ],
+      "answer": 0,
+      "explanation": "A hímnemű többes szám a vegyes csoportot is jelöli."
+    },
+    {
+      "id": "q5",
+      "type": "fillBlank",
+      "prompt": "el profesor → la ___",
+      "answers": [
+        "profesora"
+      ],
+      "explanation": "Mássalhangzó után nőnemben -a jön."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "a városok",
+      "answers": [
+        "las ciudades"
+      ],
+      "explanation": "Mássalhangzó után +es."
+    },
+    {
+      "id": "q7",
+      "type": "article",
+      "prompt": "___ estudiante (a diáklány)",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 1,
+      "explanation": "Az estudiante nem változik, csak a névelő: la estudiante."
+    },
+    {
+      "id": "q8",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Három szálloda van a városban.",
+      "tiles": [
+        "hay",
+        "tres",
+        "hoteles",
+        "en",
+        "la",
+        "ciudad"
+      ],
+      "answers": [
+        "hay tres hoteles en la ciudad",
+        "en la ciudad hay tres hoteles"
+      ],
+      "explanation": "hotel → hoteles."
+    },
+    {
+      "id": "q9",
+      "type": "multipleChoice",
+      "prompt": "el martes többes száma:",
+      "options": [
+        "los martes",
+        "los marteses",
+        "los martés"
+      ],
+      "answer": 0,
+      "explanation": "Az -s végű, nem az utolsó szótagon hangsúlyos szó nem változik."
+    }
+  ]
+}

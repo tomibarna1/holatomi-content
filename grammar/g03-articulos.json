@@ -1,0 +1,279 @@
+{
+  "id": "g03-articulos",
+  "titleHu": "Névelők",
+  "subtitleEs": "el, la, los, las, un, una",
+  "order": 3,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Négy „a, az”",
+      "body": "A magyarban egy határozott névelő van (a, az). A spanyolban **nem és szám szerint négy**: el, la, los, las.\nA határozatlan névelő (egy, néhány): un, una, unos, unas.\nMinden főnévnek van neme, a tárgyaknak is. Ezért a szót mindig névelővel tanuld: **la** mesa, **el** libro."
+    },
+    {
+      "type": "table",
+      "title": "A névelők",
+      "columns": [
+        "",
+        "hímnem",
+        "nőnem"
+      ],
+      "rows": [
+        [
+          "a, az (egyes)",
+          "el libro",
+          "la mesa"
+        ],
+        [
+          "a, az (többes)",
+          "los libros",
+          "las mesas"
+        ],
+        [
+          "egy",
+          "un libro",
+          "una mesa"
+        ],
+        [
+          "néhány",
+          "unos libros",
+          "unas mesas"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Nem a szó végéről",
+      "columns": [
+        "Végződés",
+        "Nem",
+        "Példa"
+      ],
+      "rows": [
+        [
+          "-o",
+          "hímnem",
+          "el perro, el libro"
+        ],
+        [
+          "-a",
+          "nőnem",
+          "la casa, la mesa"
+        ],
+        [
+          "-ción, -sión",
+          "nőnem",
+          "la habitación, la televisión"
+        ],
+        [
+          "-dad, -tad",
+          "nőnem",
+          "la ciudad, la amistad"
+        ],
+        [
+          "-or",
+          "többnyire hímnem",
+          "el ordenador, el profesor"
+        ],
+        [
+          "-e, más mássalhangzó",
+          "meg kell tanulni",
+          "el parque, la calle, el lápiz"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Kivételek",
+      "body": "Hímnemű, pedig -a a vége: **el problema, el día, el mapa, el idioma**.\nNőnemű, pedig -o a vége: **la mano, la foto, la radio**."
+    },
+    {
+      "type": "text",
+      "title": "el agua, el aula",
+      "body": "A hangsúlyos a- (vagy ha-) kezdetű nőnemű szó egyes számban **el**-t kap, hogy ne ütközzön a két a: el agua, el aula, un aula.\nDe a szó nőnemű marad: **el agua fría**, **las aguas**, **las aulas**."
+    },
+    {
+      "type": "tip",
+      "title": "Összevonás",
+      "body": "a + el = **al**: Voy al parque.\nde + el = **del**: la casa del profesor.\nA la és a los nem olvad össze: a la playa, de los padres."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "El perro y el gato están en la casa.",
+          "hu": "A kutya és a macska a házban van."
+        },
+        {
+          "es": "Tengo un libro y una película.",
+          "hu": "Van egy könyvem és egy filmem."
+        },
+        {
+          "es": "Hay unas galletas en la mesa.",
+          "hu": "Van néhány keksz az asztalon."
+        },
+        {
+          "es": "El agua está fría.",
+          "hu": "A víz hideg."
+        },
+        {
+          "es": "El problema es el examen.",
+          "hu": "A vizsga a probléma."
+        },
+        {
+          "es": "Me lavo las manos.",
+          "hu": "Kezet mosok."
+        },
+        {
+          "es": "Voy al parque con los amigos.",
+          "hu": "A barátokkal a parkba megyek."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "el (névelő) ékezet nélkül, él (ő) ékezettel.",
+        "el problema, el día: -a a vége, mégis hímnem.",
+        "la mano: -o a vége, mégis nőnem (las manos).",
+        "el agua, de las aguas, és a melléknév nőnemű: el agua fría.",
+        "Foglalkozás előtt nincs névelő: Soy profesor (nem: soy un profesor).",
+        "a + el = al, de + el = del. Ezt kötelező összevonni."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "article",
+      "prompt": "___ mesa (az asztal)",
+      "options": [
+        "el",
+        "la",
+        "los",
+        "las"
+      ],
+      "answer": 1,
+      "explanation": "-a végű, nőnem: la mesa."
+    },
+    {
+      "id": "q2",
+      "type": "article",
+      "prompt": "___ problema (a probléma)",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "Kivétel: el problema hímnem, pedig -a a vége."
+    },
+    {
+      "id": "q3",
+      "type": "article",
+      "prompt": "___ mano (a kéz)",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 1,
+      "explanation": "Kivétel: la mano nőnem, pedig -o a vége."
+    },
+    {
+      "id": "q4",
+      "type": "article",
+      "prompt": "___ agua (a víz)",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 0,
+      "explanation": "Hangsúlyos a-val kezdődik, ezért el agua, de nőnemű marad: el agua fría."
+    },
+    {
+      "id": "q5",
+      "type": "article",
+      "prompt": "Hay ___ libros en la mesa. (néhány)",
+      "options": [
+        "unos",
+        "unas",
+        "los",
+        "un"
+      ],
+      "answer": 0,
+      "explanation": "libro hímnem, többes, határozatlan: unos libros."
+    },
+    {
+      "id": "q6",
+      "type": "article",
+      "prompt": "___ habitación (a szoba)",
+      "options": [
+        "el",
+        "la"
+      ],
+      "answer": 1,
+      "explanation": "A -ción végű szavak nőneműek."
+    },
+    {
+      "id": "q7",
+      "type": "multipleChoice",
+      "prompt": "Melyik a helyes: a szülők",
+      "options": [
+        "los padres",
+        "las padres",
+        "el padres"
+      ],
+      "answer": 0,
+      "explanation": "padre hímnem, többes számban los padres."
+    },
+    {
+      "id": "q8",
+      "type": "fillBlank",
+      "prompt": "Voy ___ parque. (a parkba)",
+      "answers": [
+        "al"
+      ],
+      "explanation": "a + el = al. Ezt kötelező összevonni."
+    },
+    {
+      "id": "q9",
+      "type": "translateToEs",
+      "prompt": "A víz hideg.",
+      "answers": [
+        "el agua está fría"
+      ],
+      "explanation": "el agua, de nőnemű, ezért fría."
+    },
+    {
+      "id": "q10",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "el día",
+          "hu": "a nap"
+        },
+        {
+          "es": "la ciudad",
+          "hu": "a város"
+        },
+        {
+          "es": "el aula",
+          "hu": "a tanterem"
+        },
+        {
+          "es": "la radio",
+          "hu": "a rádió"
+        },
+        {
+          "es": "la reunión",
+          "hu": "a megbeszélés"
+        }
+      ],
+      "explanation": "Figyelj a kivételekre: el día hímnem, la radio nőnem, el aula nőnemű, csak el-t kap."
+    }
+  ]
+}

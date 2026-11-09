@@ -1,0 +1,452 @@
+{
+  "id": "g14-numeros",
+  "titleHu": "Számok 0-tól 1 000 000-ig",
+  "subtitleEs": "uno, cien, mil, un millón",
+  "order": 14,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Hogyan épülnek?",
+      "body": "0-tól 15-ig külön szavak. 16-tól 29-ig egybeírod: dieciséis, veintiuno.\n31-től az **y** (és) köti össze a tízest és az egyest, külön szóval: treinta y uno.\nAz y csak a tízes és az egyes között áll: ciento treinta y dos (132)."
+    },
+    {
+      "type": "table",
+      "title": "0-15",
+      "columns": [
+        "Szám",
+        "Spanyol"
+      ],
+      "rows": [
+        [
+          "0",
+          "cero"
+        ],
+        [
+          "1",
+          "uno"
+        ],
+        [
+          "2",
+          "dos"
+        ],
+        [
+          "3",
+          "tres"
+        ],
+        [
+          "4",
+          "cuatro"
+        ],
+        [
+          "5",
+          "cinco"
+        ],
+        [
+          "6",
+          "seis"
+        ],
+        [
+          "7",
+          "siete"
+        ],
+        [
+          "8",
+          "ocho"
+        ],
+        [
+          "9",
+          "nueve"
+        ],
+        [
+          "10",
+          "diez"
+        ],
+        [
+          "11",
+          "once"
+        ],
+        [
+          "12",
+          "doce"
+        ],
+        [
+          "13",
+          "trece"
+        ],
+        [
+          "14",
+          "catorce"
+        ],
+        [
+          "15",
+          "quince"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "16-29",
+      "columns": [
+        "Szám",
+        "Spanyol"
+      ],
+      "rows": [
+        [
+          "16",
+          "dieciséis"
+        ],
+        [
+          "17",
+          "diecisiete"
+        ],
+        [
+          "18",
+          "dieciocho"
+        ],
+        [
+          "19",
+          "diecinueve"
+        ],
+        [
+          "20",
+          "veinte"
+        ],
+        [
+          "21",
+          "veintiuno"
+        ],
+        [
+          "22",
+          "veintidós"
+        ],
+        [
+          "23",
+          "veintitrés"
+        ],
+        [
+          "24",
+          "veinticuatro"
+        ],
+        [
+          "25",
+          "veinticinco"
+        ],
+        [
+          "26",
+          "veintiséis"
+        ],
+        [
+          "27",
+          "veintisiete"
+        ],
+        [
+          "28",
+          "veintiocho"
+        ],
+        [
+          "29",
+          "veintinueve"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Tízesek",
+      "columns": [
+        "Szám",
+        "Spanyol"
+      ],
+      "rows": [
+        [
+          "30",
+          "treinta"
+        ],
+        [
+          "31",
+          "treinta y uno"
+        ],
+        [
+          "40",
+          "cuarenta"
+        ],
+        [
+          "50",
+          "cincuenta"
+        ],
+        [
+          "60",
+          "sesenta"
+        ],
+        [
+          "70",
+          "setenta"
+        ],
+        [
+          "80",
+          "ochenta"
+        ],
+        [
+          "90",
+          "noventa"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Százasok és nagyobbak",
+      "columns": [
+        "Szám",
+        "Spanyol"
+      ],
+      "rows": [
+        [
+          "100",
+          "cien"
+        ],
+        [
+          "101",
+          "ciento uno"
+        ],
+        [
+          "200",
+          "doscientos, doscientas"
+        ],
+        [
+          "300",
+          "trescientos"
+        ],
+        [
+          "400",
+          "cuatrocientos"
+        ],
+        [
+          "500",
+          "quinientos"
+        ],
+        [
+          "600",
+          "seiscientos"
+        ],
+        [
+          "700",
+          "setecientos"
+        ],
+        [
+          "800",
+          "ochocientos"
+        ],
+        [
+          "900",
+          "novecientos"
+        ],
+        [
+          "1000",
+          "mil"
+        ],
+        [
+          "2000",
+          "dos mil"
+        ],
+        [
+          "100 000",
+          "cien mil"
+        ],
+        [
+          "1 000 000",
+          "un millón"
+        ],
+        [
+          "2 000 000",
+          "dos millones"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Szabályok",
+      "body": "**uno, un, una**: főnév előtt hímnemben un, nőnemben una: un libro, una mesa, veintiún años.\n**cien vs ciento**: pontosan 100 és főnév előtt cien (cien libros, cien mil). 101-től ciento: ciento uno, ciento veinte.\n**Százasok nőneme**: doscientos libros, de doscientas personas.\n**Rendhagyó százasok**: quinientos (500), setecientos (700), novecientos (900).\n**mil**: un nélkül: mil, dos mil.\n**millón**: un millón, dos millones, főnév előtt de: un millón de euros."
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "Ugyanúgy építed, mint a magyarban: 2026 = dos mil veintiséis (kétezer-huszonhat). A különbség az y: „harminc és egy”."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Tengo veintiún años.",
+          "hu": "Huszonegy éves vagyok."
+        },
+        {
+          "es": "Mi abuela tiene ochenta y dos años.",
+          "hu": "A nagymamám nyolcvankét éves."
+        },
+        {
+          "es": "El libro tiene cien páginas.",
+          "hu": "A könyv százoldalas."
+        },
+        {
+          "es": "Son ciento cincuenta euros.",
+          "hu": "Százötven euró lesz."
+        },
+        {
+          "es": "Hay quinientas personas en la plaza.",
+          "hu": "Ötszáz ember van a téren."
+        },
+        {
+          "es": "La casa cuesta doscientos mil euros.",
+          "hu": "A ház kétszázezer euróba kerül."
+        },
+        {
+          "es": "Estamos en dos mil veintiséis.",
+          "hu": "Kétezer-huszonhatban vagyunk."
+        },
+        {
+          "es": "Madrid tiene más de tres millones de habitantes.",
+          "hu": "Madridnak több mint hárommillió lakosa van."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Főnév előtt az uno rövidül: veintiún años, un libro.",
+        "cien libros, de ciento veinte libros. És cien mil, nem ciento mil.",
+        "mil, nem un mil. De un millón, és utána de: un millón de euros.",
+        "quinientos, setecientos, novecientos: nem cincocientos, sietecientos, nuevecientos.",
+        "Nőnemű főnév előtt a százas is nőnemű: doscientas personas.",
+        "Ékezet: dieciséis, veintidós, veintitrés, veintiséis."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "fillBlank",
+      "prompt": "16 = ___",
+      "answers": [
+        "dieciséis"
+      ],
+      "explanation": "Egybeírva, ékezettel."
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": "500 =",
+      "options": [
+        "cincocientos",
+        "quinientos",
+        "cinco cientos"
+      ],
+      "answer": 1,
+      "explanation": "Rendhagyó: quinientos."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "100 könyv:",
+      "options": [
+        "ciento libros",
+        "cien libros",
+        "un cien libros"
+      ],
+      "answer": 1,
+      "explanation": "Pontosan száz főnév előtt: cien."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "1000 =",
+      "options": [
+        "un mil",
+        "mil",
+        "miles"
+      ],
+      "answer": 1,
+      "explanation": "A mil elé nem kell un."
+    },
+    {
+      "id": "q5",
+      "type": "fillBlank",
+      "prompt": "Tengo ___ años. (21)",
+      "answers": [
+        "veintiún"
+      ],
+      "explanation": "Főnév előtt veintiuno → veintiún, ékezettel."
+    },
+    {
+      "id": "q6",
+      "type": "fillBlank",
+      "prompt": "200 ház = ___ casas",
+      "answers": [
+        "doscientas"
+      ],
+      "explanation": "A casa nőnemű, ezért doscientas."
+    },
+    {
+      "id": "q7",
+      "type": "translateToEs",
+      "prompt": "700",
+      "answers": [
+        "setecientos"
+      ],
+      "explanation": "Rendhagyó: setecientos, nem sietecientos."
+    },
+    {
+      "id": "q8",
+      "type": "translateToHu",
+      "prompt": "ciento treinta y dos",
+      "answers": [
+        "132",
+        "százharminckettő"
+      ],
+      "explanation": "100 + 30 + 2. Az y csak a tízes és az egyes között áll."
+    },
+    {
+      "id": "q9",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "quince",
+          "hu": "15"
+        },
+        {
+          "es": "cuarenta",
+          "hu": "40"
+        },
+        {
+          "es": "novecientos",
+          "hu": "900"
+        },
+        {
+          "es": "veintidós",
+          "hu": "22"
+        },
+        {
+          "es": "un millón",
+          "hu": "1 000 000"
+        }
+      ],
+      "explanation": "quince, cuarenta, novecientos (rendhagyó), veintidós (ékezettel), un millón."
+    },
+    {
+      "id": "q10",
+      "type": "multipleChoice",
+      "prompt": "Egymillió euró:",
+      "options": [
+        "un millón euros",
+        "un millón de euros",
+        "mil millón euros"
+      ],
+      "answer": 1,
+      "explanation": "A millón után de áll."
+    }
+  ]
+}

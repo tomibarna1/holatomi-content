@@ -1,0 +1,931 @@
+{
+  "schemaVersion": 1,
+  "verbs": [
+    {
+      "id": "ser",
+      "infinitive": "ser",
+      "hu": "lenni (valami, valaki)",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "soy",
+          "tu": "eres",
+          "el": "es",
+          "nosotros": "somos",
+          "vosotros": "sois",
+          "ellos": "son"
+        }
+      },
+      "note": "állandó tulajdonság, kiléte, eredet, foglalkozás, idő: Soy Tomi. Es la una."
+    },
+    {
+      "id": "estar",
+      "infinitive": "estar",
+      "hu": "lenni (valahol, valahogy)",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "estoy",
+          "tu": "estás",
+          "el": "está",
+          "vosotros": "estáis",
+          "ellos": "están"
+        }
+      },
+      "note": "hely és pillanatnyi állapot: Estoy en casa. Estoy cansado."
+    },
+    {
+      "id": "tener",
+      "infinitive": "tener",
+      "hu": "van neki valamije, birtokolni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": "e>ie",
+      "overrides": {
+        "presente": {
+          "yo": "tengo"
+        }
+      },
+      "note": "tener que + főnévi igenév = kell: Tengo que trabajar. Kor: Tengo 30 años."
+    },
+    {
+      "id": "haber",
+      "infinitive": "haber",
+      "hu": "van, létezik (hay); segédige",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "he",
+          "tu": "has",
+          "el": "ha",
+          "nosotros": "hemos",
+          "vosotros": "habéis",
+          "ellos": "han"
+        }
+      },
+      "note": "személytelen alak: hay = van, található (Hay un libro en la mesa). Az he, has, ha... az összetett múlt idő segédigéje."
+    },
+    {
+      "id": "ir",
+      "infinitive": "ir",
+      "hu": "menni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      "note": "ir a + hely: Voy a la playa. ir a + főnévi igenév = fog (közeli jövő): Voy a comer."
+    },
+    {
+      "id": "irse",
+      "infinitive": "irse",
+      "hu": "elmenni (valahonnan)",
+      "type": "ir",
+      "reflexive": true,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "voy",
+          "tu": "vas",
+          "el": "va",
+          "nosotros": "vamos",
+          "vosotros": "vais",
+          "ellos": "van"
+        }
+      },
+      "note": "Me voy = megyek (elindulok innen). irse a la cama = ágyba bújni."
+    },
+    {
+      "id": "hacer",
+      "infinitive": "hacer",
+      "hu": "csinálni, készíteni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "hago"
+        }
+      },
+      "note": "hacer la cama = beágyazni, hacer los deberes = házit csinálni, hacer ejercicio = edzeni"
+    },
+    {
+      "id": "poder",
+      "infinitive": "poder",
+      "hu": "tudni, képesnek lenni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "o>ue",
+      "note": "képesség, lehetőség, engedély: ¿Puedo pasar? Utána főnévi igenév jön."
+    },
+    {
+      "id": "querer",
+      "infinitive": "querer",
+      "hu": "akarni, szeretni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "e>ie",
+      "note": "Quiero un café. Te quiero = szeretlek."
+    },
+    {
+      "id": "venir",
+      "infinitive": "venir",
+      "hu": "jönni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": "e>ie",
+      "overrides": {
+        "presente": {
+          "yo": "vengo"
+        }
+      }
+    },
+    {
+      "id": "decir",
+      "infinitive": "decir",
+      "hu": "mondani",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": "e>i",
+      "overrides": {
+        "presente": {
+          "yo": "digo"
+        }
+      }
+    },
+    {
+      "id": "salir",
+      "infinitive": "salir",
+      "hu": "kimenni, elindulni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "salgo"
+        }
+      },
+      "note": "salir de casa = elindulni otthonról, salir a pasear = sétálni menni"
+    },
+    {
+      "id": "poner",
+      "infinitive": "poner",
+      "hu": "tenni, rakni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "pongo"
+        }
+      }
+    },
+    {
+      "id": "saber",
+      "infinitive": "saber",
+      "hu": "tudni (tényt, készséget)",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "sé"
+        }
+      },
+      "note": "saber = tudni valamit (Sé nadar = tudok úszni). Embert, helyet: conocer."
+    },
+    {
+      "id": "conocer",
+      "infinitive": "conocer",
+      "hu": "ismerni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "conozco"
+        }
+      },
+      "note": "embert, helyet ismerni: Conozco Madrid. Személy előtt a: Conozco a Ana."
+    },
+    {
+      "id": "dar",
+      "infinitive": "dar",
+      "hu": "adni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "doy",
+          "vosotros": "dais"
+        }
+      },
+      "note": "a dais ékezet nélkül íródik (egy szótag). dar un paseo = sétálni egyet"
+    },
+    {
+      "id": "darse",
+      "infinitive": "darse",
+      "hu": "adni magának",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "doy",
+          "vosotros": "dais"
+        }
+      },
+      "note": "darse un baño = megfürdeni (kádban): Me doy un baño."
+    },
+    {
+      "id": "ver",
+      "infinitive": "ver",
+      "hu": "látni, nézni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "veo",
+          "vosotros": "veis"
+        }
+      },
+      "note": "a veis ékezet nélkül íródik. ver la televisión = tévét nézni"
+    },
+    {
+      "id": "oir",
+      "infinitive": "oír",
+      "hu": "hallani",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "oigo",
+          "tu": "oyes",
+          "el": "oye",
+          "nosotros": "oímos",
+          "vosotros": "oís",
+          "ellos": "oyen"
+        }
+      },
+      "note": "oír = hallani, escuchar = (figyelmesen) hallgatni"
+    },
+    {
+      "id": "dormir",
+      "infinitive": "dormir",
+      "hu": "aludni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "o>ue"
+    },
+    {
+      "id": "jugar",
+      "infinitive": "jugar",
+      "hu": "játszani",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "u>ue",
+      "note": "sportnál, játéknál: jugar al fútbol, jugar a las cartas. Hangszer: tocar."
+    },
+    {
+      "id": "pedir",
+      "infinitive": "pedir",
+      "hu": "kérni, rendelni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "e>i",
+      "note": "étteremben: Pido una sopa = egy levest kérek."
+    },
+    {
+      "id": "preferir",
+      "infinitive": "preferir",
+      "hu": "jobban szeretni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "e>ie"
+    },
+    {
+      "id": "almorzar",
+      "infinitive": "almorzar",
+      "hu": "ebédelni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "o>ue",
+      "note": "Spanyolországban sokan a comer igét használják ebédre."
+    },
+    {
+      "id": "empezar",
+      "infinitive": "empezar",
+      "hu": "kezdeni, kezdődni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "e>ie",
+      "note": "empezar a + főnévi igenév: Empiezo a trabajar a las nueve."
+    },
+    {
+      "id": "volver",
+      "infinitive": "volver",
+      "hu": "visszamenni, visszatérni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "o>ue",
+      "note": "volver a casa = hazamenni"
+    },
+    {
+      "id": "llamarse",
+      "infinitive": "llamarse",
+      "hu": "valahogy hívják",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "Me llamo Tomi = Tominak hívnak."
+    },
+    {
+      "id": "gustar",
+      "infinitive": "gustar",
+      "hu": "tetszeni, ízleni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "me gusta + egyes szám (me gusta el café), me gustan + többes szám (me gustan los perros). Mint a magyar tetszik / tetszenek."
+    },
+    {
+      "id": "vivir",
+      "infinitive": "vivir",
+      "hu": "élni, lakni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "Vivo en Budapest."
+    },
+    {
+      "id": "comer",
+      "infinitive": "comer",
+      "hu": "enni, ebédelni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "beber",
+      "infinitive": "beber",
+      "hu": "inni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "leer",
+      "infinitive": "leer",
+      "hu": "olvasni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "escribir",
+      "infinitive": "escribir",
+      "hu": "írni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "aprender",
+      "infinitive": "aprender",
+      "hu": "tanulni, megtanulni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "aprender a + főnévi igenév: Aprendo a nadar."
+    },
+    {
+      "id": "abrir",
+      "infinitive": "abrir",
+      "hu": "kinyitni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "responder",
+      "infinitive": "responder",
+      "hu": "válaszolni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "despertarse",
+      "infinitive": "despertarse",
+      "hu": "felébredni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": "e>ie",
+      "note": "visszaható ige: me despierto"
+    },
+    {
+      "id": "levantarse",
+      "infinitive": "levantarse",
+      "hu": "felkelni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "me levanto"
+    },
+    {
+      "id": "ducharse",
+      "infinitive": "ducharse",
+      "hu": "zuhanyozni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "me ducho"
+    },
+    {
+      "id": "banarse",
+      "infinitive": "bañarse",
+      "hu": "fürdeni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "me baño"
+    },
+    {
+      "id": "lavarse",
+      "infinitive": "lavarse",
+      "hu": "megmosakodni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "lavarse la cara = arcot mosni, lavarse las manos = kezet mosni. Birtokos névmás nem kell: me lavo las manos."
+    },
+    {
+      "id": "cepillarse",
+      "infinitive": "cepillarse",
+      "hu": "fogat mosni (kefével)",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "cepillarse los dientes = fogat mosni: me cepillo los dientes"
+    },
+    {
+      "id": "peinarse",
+      "infinitive": "peinarse",
+      "hu": "megfésülködni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "me peino"
+    },
+    {
+      "id": "afeitarse",
+      "infinitive": "afeitarse",
+      "hu": "borotválkozni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": null,
+      "note": "me afeito"
+    },
+    {
+      "id": "vestirse",
+      "infinitive": "vestirse",
+      "hu": "felöltözni",
+      "type": "ir",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": "e>i",
+      "note": "me visto, te vistes"
+    },
+    {
+      "id": "acostarse",
+      "infinitive": "acostarse",
+      "hu": "lefeküdni",
+      "type": "ar",
+      "reflexive": true,
+      "irregular": false,
+      "stemChange": "o>ue",
+      "note": "me acuesto a las once"
+    },
+    {
+      "id": "estudiar",
+      "infinitive": "estudiar",
+      "hu": "tanulni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "trabajar",
+      "infinitive": "trabajar",
+      "hu": "dolgozni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "viajar",
+      "infinitive": "viajar",
+      "hu": "utazni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "visitar",
+      "infinitive": "visitar",
+      "hu": "meglátogatni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "practicar",
+      "infinitive": "practicar",
+      "hu": "gyakorolni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "explicar",
+      "infinitive": "explicar",
+      "hu": "elmagyarázni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "esperar",
+      "infinitive": "esperar",
+      "hu": "várni / remélni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "usar",
+      "infinitive": "usar",
+      "hu": "használni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "ensenar",
+      "infinitive": "enseñar",
+      "hu": "tanítani / megmutatni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "hablar",
+      "infinitive": "hablar",
+      "hu": "beszélni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "hablar por teléfono = telefonálni"
+    },
+    {
+      "id": "llevar",
+      "infinitive": "llevar",
+      "hu": "viselni / vinni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "ruhát, szemüveget hordani: Lleva gafas."
+    },
+    {
+      "id": "guardar",
+      "infinitive": "guardar",
+      "hu": "elmenteni, megőrizni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "quitar",
+      "infinitive": "quitar",
+      "hu": "elvenni, levenni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "desayunar",
+      "infinitive": "desayunar",
+      "hu": "reggelizni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "cenar",
+      "infinitive": "cenar",
+      "hu": "vacsorázni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "cocinar",
+      "infinitive": "cocinar",
+      "hu": "főzni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "descansar",
+      "infinitive": "descansar",
+      "hu": "pihenni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "nadar",
+      "infinitive": "nadar",
+      "hu": "úszni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "tomar",
+      "infinitive": "tomar",
+      "hu": "venni, inni (kávét)",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "tomar café = kávézni"
+    },
+    {
+      "id": "limpiar",
+      "infinitive": "limpiar",
+      "hu": "takarítani, tisztítani",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "lavar",
+      "infinitive": "lavar",
+      "hu": "mosni (valamit)",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "lavar el coche = autót mosni. Magunkat mosni: lavarse."
+    },
+    {
+      "id": "fregar",
+      "infinitive": "fregar",
+      "hu": "mosogatni, felmosni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "e>ie",
+      "note": "fregar los platos = elmosogatni"
+    },
+    {
+      "id": "planchar",
+      "infinitive": "planchar",
+      "hu": "vasalni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "ordenar",
+      "infinitive": "ordenar",
+      "hu": "rendet rakni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "sacar",
+      "infinitive": "sacar",
+      "hu": "kivenni, kivinni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "sacar la basura = kivinni a szemetet"
+    },
+    {
+      "id": "regar",
+      "infinitive": "regar",
+      "hu": "locsolni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": "e>ie",
+      "note": "regar las plantas = meglocsolni a növényeket"
+    },
+    {
+      "id": "pasear",
+      "infinitive": "pasear",
+      "hu": "sétálni, sétáltatni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "pasear al perro = sétáltatni a kutyát"
+    },
+    {
+      "id": "alimentar",
+      "infinitive": "alimentar",
+      "hu": "etetni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null
+    },
+    {
+      "id": "quedar",
+      "infinitive": "quedar",
+      "hu": "találkozni (megbeszélt időben)",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "quedar con amigos = találkozni a barátokkal"
+    },
+    {
+      "id": "escuchar",
+      "infinitive": "escuchar",
+      "hu": "hallgatni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "escuchar música = zenét hallgatni"
+    },
+    {
+      "id": "navegar",
+      "infinitive": "navegar",
+      "hu": "hajózni, böngészni",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "navegar por internet = internetezni"
+    },
+    {
+      "id": "tocar",
+      "infinitive": "tocar",
+      "hu": "megérinteni, játszani (hangszeren)",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "tocar la guitarra = gitározni. Sportnál: jugar."
+    },
+    {
+      "id": "montar",
+      "infinitive": "montar",
+      "hu": "ülni (járművön, lovon)",
+      "type": "ar",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "montar en bicicleta = biciklizni"
+    },
+    {
+      "id": "coger",
+      "infinitive": "coger",
+      "hu": "fogni, megfogni, felszállni (járműre)",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "cojo"
+        }
+      },
+      "note": "coger el autobús = busszal menni. A g a j-vé változik az o előtt: cojo."
+    },
+    {
+      "id": "recoger",
+      "infinitive": "recoger",
+      "hu": "összeszedni, rendet rakni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": true,
+      "stemChange": null,
+      "overrides": {
+        "presente": {
+          "yo": "recojo"
+        }
+      },
+      "note": "recoger la habitación = rendet rakni a szobában"
+    },
+    {
+      "id": "barrer",
+      "infinitive": "barrer",
+      "hu": "söpörni",
+      "type": "er",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "barrer el suelo = felsöpörni a padlót"
+    },
+    {
+      "id": "asistir",
+      "infinitive": "asistir",
+      "hu": "részt venni",
+      "type": "ir",
+      "reflexive": false,
+      "irregular": false,
+      "stemChange": null,
+      "note": "asistir a una reunión = részt venni egy megbeszélésen"
+    }
+  ]
+}

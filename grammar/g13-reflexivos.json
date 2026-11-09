@@ -1,0 +1,297 @@
+{
+  "id": "g13-reflexivos",
+  "titleHu": "Visszaható igék",
+  "subtitleEs": "me levanto, te duchas",
+  "order": 13,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mi az?",
+      "body": "Visszaható igénél a cselekvés az alanyra irányul: **lavarse** = mosakodni (magát mosni). A szótári alak **-se** végű.\nRagozáskor a se a személyhez igazodik, és az ige **elé** kerül: me lavo, te lavas, se lava.\nA magyarban is van ilyen: mosakodik, fésülködik, öltözködik."
+    },
+    {
+      "type": "table",
+      "title": "Ragozás",
+      "columns": [
+        "",
+        "levantarse",
+        "vestirse (e > i)"
+      ],
+      "rows": [
+        [
+          "yo",
+          "me levanto",
+          "me visto"
+        ],
+        [
+          "tú",
+          "te levantas",
+          "te vistes"
+        ],
+        [
+          "él, ella, usted",
+          "se levanta",
+          "se viste"
+        ],
+        [
+          "nosotros, nosotras",
+          "nos levantamos",
+          "nos vestimos"
+        ],
+        [
+          "vosotros, vosotras",
+          "os levantáis",
+          "os vestís"
+        ],
+        [
+          "ellos, ellas, ustedes",
+          "se levantan",
+          "se visten"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Napi rutin",
+      "columns": [
+        "Spanyol",
+        "Magyar",
+        "yo"
+      ],
+      "rows": [
+        [
+          "despertarse (e > ie)",
+          "felébredni",
+          "me despierto"
+        ],
+        [
+          "levantarse",
+          "felkelni",
+          "me levanto"
+        ],
+        [
+          "ducharse",
+          "zuhanyozni",
+          "me ducho"
+        ],
+        [
+          "lavarse la cara",
+          "arcot mosni",
+          "me lavo la cara"
+        ],
+        [
+          "cepillarse los dientes",
+          "fogat mosni",
+          "me cepillo los dientes"
+        ],
+        [
+          "peinarse",
+          "megfésülködni",
+          "me peino"
+        ],
+        [
+          "afeitarse",
+          "borotválkozni",
+          "me afeito"
+        ],
+        [
+          "vestirse (e > i)",
+          "felöltözni",
+          "me visto"
+        ],
+        [
+          "acostarse (o > ue)",
+          "lefeküdni",
+          "me acuesto"
+        ],
+        [
+          "irse",
+          "elmenni",
+          "me voy"
+        ],
+        [
+          "llamarse",
+          "valahogy hívják",
+          "me llamo"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Főnévi igenévvel",
+      "body": "Főnévi igenév mellett a névmás az ige végére is tapadhat: Tengo que levantar**me** = Me tengo que levantar (Fel kell kelnem). Mindkettő helyes."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Me despierto a las siete.",
+          "hu": "Hétkor ébredek."
+        },
+        {
+          "es": "Me levanto, me ducho y me visto.",
+          "hu": "Felkelek, lezuhanyozom és felöltözöm."
+        },
+        {
+          "es": "Mi hermano se afeita por la mañana.",
+          "hu": "A fiútestvérem reggel borotválkozik."
+        },
+        {
+          "es": "Nos acostamos a las once.",
+          "hu": "Tizenegykor fekszünk le."
+        },
+        {
+          "es": "¿A qué hora te levantas?",
+          "hu": "Hánykor kelsz fel?"
+        },
+        {
+          "es": "Me lavo las manos antes de comer.",
+          "hu": "Evés előtt kezet mosok."
+        },
+        {
+          "es": "Me llamo Tomi.",
+          "hu": "Tominak hívnak."
+        },
+        {
+          "es": "Me voy a la cama.",
+          "hu": "Megyek aludni."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Ne hagyd le a névmást: me levanto. A levanto azt jelenti: felemelek (valamit).",
+        "Testrésznél nincs birtokos névmás: me lavo las manos, nem mis manos.",
+        "vestirse: me visto, de nos vestimos (nosotros alakban nincs tőhangváltás).",
+        "acostarse: me acuesto, de nos acostamos.",
+        "Me llamo Tomi, nem yo llamo Tomi."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "fillBlank",
+      "prompt": "Yo ___ levanto a las siete.",
+      "answers": [
+        "me"
+      ],
+      "explanation": "yo → me."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "¿A qué hora ___ acuestas?",
+      "answers": [
+        "te"
+      ],
+      "explanation": "tú → te."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "Nosotros ___ a las once. (acostarse)",
+      "options": [
+        "nos acostamos",
+        "nos acuestamos",
+        "se acostamos"
+      ],
+      "answer": 0,
+      "explanation": "nosotros alakban nincs tőhangváltás, és a névmás nos."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Ella ___ (vestirse)",
+      "options": [
+        "se viste",
+        "se veste",
+        "me visto"
+      ],
+      "answer": 0,
+      "explanation": "e > i: se viste."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Hétkor ébredek.",
+      "answers": [
+        "me despierto a las siete",
+        "yo me despierto a las siete"
+      ],
+      "explanation": "despertarse, e > ie: me despierto."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Kezet mosok.",
+      "answers": [
+        "me lavo las manos",
+        "yo me lavo las manos"
+      ],
+      "explanation": "Testrésznél névelő jár, nem birtokos: las manos."
+    },
+    {
+      "id": "q7",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Felkelek és lezuhanyozom.",
+      "tiles": [
+        "me",
+        "levanto",
+        "y",
+        "me",
+        "ducho"
+      ],
+      "answers": [
+        "me levanto y me ducho"
+      ],
+      "explanation": "Mindkét ige elé kell a me."
+    },
+    {
+      "id": "q8",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "despertarse",
+          "hu": "felébredni"
+        },
+        {
+          "es": "ducharse",
+          "hu": "zuhanyozni"
+        },
+        {
+          "es": "peinarse",
+          "hu": "megfésülködni"
+        },
+        {
+          "es": "afeitarse",
+          "hu": "borotválkozni"
+        },
+        {
+          "es": "acostarse",
+          "hu": "lefeküdni"
+        }
+      ],
+      "explanation": "Mind visszaható: me despierto, me ducho, me peino, me afeito, me acuesto."
+    },
+    {
+      "id": "q9",
+      "type": "translateToHu",
+      "prompt": "Me llamo Tomi.",
+      "answers": [
+        "Tominak hívnak",
+        "Tomi vagyok",
+        "engem Tominak hívnak",
+        "a nevem Tomi"
+      ],
+      "explanation": "llamarse = valahogy hívják."
+    }
+  ]
+}

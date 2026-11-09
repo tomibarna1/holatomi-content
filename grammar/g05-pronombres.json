@@ -1,0 +1,272 @@
+{
+  "id": "g05-pronombres",
+  "titleHu": "Személyes névmások",
+  "subtitleEs": "yo, tú, él, ella",
+  "order": 5,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Ki, kik?",
+      "body": "A spanyol ige ragja megmutatja, ki csinálja: hablo (én), hablas (te). Ezért a névmást **gyakran elhagyják, pont mint a magyarban**: Hablo español = Beszélek spanyolul.\nKitenni akkor kell, ha hangsúlyozol, szembeállítasz vagy egyértelműsítesz: Yo soy de Hungría, ¿y tú?"
+    },
+    {
+      "type": "table",
+      "title": "Személyes névmások",
+      "columns": [
+        "Személy",
+        "Spanyol",
+        "Magyar"
+      ],
+      "rows": [
+        [
+          "1. egyes",
+          "yo",
+          "én"
+        ],
+        [
+          "2. egyes",
+          "tú",
+          "te"
+        ],
+        [
+          "3. egyes",
+          "él, ella, usted",
+          "ő (férfi), ő (nő), Ön"
+        ],
+        [
+          "1. többes",
+          "nosotros, nosotras",
+          "mi"
+        ],
+        [
+          "2. többes",
+          "vosotros, vosotras",
+          "ti"
+        ],
+        [
+          "3. többes",
+          "ellos, ellas, ustedes",
+          "ők, Önök"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Névmás és ige",
+      "columns": [
+        "Névmás",
+        "hablar",
+        "ser"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hablo",
+          "soy"
+        ],
+        [
+          "tú",
+          "hablas",
+          "eres"
+        ],
+        [
+          "él, ella, usted",
+          "habla",
+          "es"
+        ],
+        [
+          "nosotros, nosotras",
+          "hablamos",
+          "somos"
+        ],
+        [
+          "vosotros, vosotras",
+          "habláis",
+          "sois"
+        ],
+        [
+          "ellos, ellas, ustedes",
+          "hablan",
+          "son"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Nosotras, vosotras, ellas",
+      "body": "Csak nőkből álló csoport: **nosotras, vosotras, ellas**.\nHa egyetlen férfi is van köztük: nosotros, vosotros, ellos."
+    },
+    {
+      "type": "tip",
+      "title": "Vosotros vagy ustedes?",
+      "body": "Spanyolországban a ti = **vosotros** (tegező), az Önök = **ustedes** (magázó, harmadik személyű igével: ustedes hablan).\nLatin-Amerikában vosotros nincs, ott mindig ustedes."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Hablo un poco de español.",
+          "hu": "Beszélek egy kicsit spanyolul."
+        },
+        {
+          "es": "¿Y tú? ¿De dónde eres?",
+          "hu": "És te? Honnan jössz?"
+        },
+        {
+          "es": "Ella es mi hermana y él es mi amigo.",
+          "hu": "Ő a lánytestvérem, ő pedig a barátom."
+        },
+        {
+          "es": "Nosotras estudiamos español.",
+          "hu": "Mi (nők) spanyolul tanulunk."
+        },
+        {
+          "es": "¿Vosotros sois de Madrid?",
+          "hu": "Ti madridiak vagytok?"
+        },
+        {
+          "es": "Usted habla muy bien.",
+          "hu": "Ön nagyon jól beszél."
+        },
+        {
+          "es": "Ellos trabajan en un hotel.",
+          "hu": "Ők egy szállodában dolgoznak."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "tú (te) ékezettel, tu (a te...) nélküle: Tú tienes tu libro.",
+        "él (ő) ékezettel, el (a, az) nélküle.",
+        "usted mellett harmadik személy: usted habla, nem usted hablas.",
+        "Ne ismételd folyton a yo-t: magyarul sem mondod minden mondatban, hogy „én”.",
+        "ellas csak nőkre. Vegyes csoport: ellos."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "Melyik névmás illik ide? ___ hablamos español.",
+      "options": [
+        "Nosotros",
+        "Vosotros",
+        "Ellos"
+      ],
+      "answer": 0,
+      "explanation": "hablamos = mi beszélünk."
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": "Ön (magázó): Usted ___ español.",
+      "options": [
+        "hablas",
+        "habla",
+        "habláis"
+      ],
+      "answer": 1,
+      "explanation": "Az usted harmadik személyű igével áll."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "Anna, Marta és Péter: ők =",
+      "options": [
+        "ellas",
+        "ellos"
+      ],
+      "answer": 1,
+      "explanation": "Ha egy férfi is van a csoportban, hímnem: ellos."
+    },
+    {
+      "id": "q4",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "yo",
+          "hu": "én"
+        },
+        {
+          "es": "tú",
+          "hu": "te"
+        },
+        {
+          "es": "nosotros",
+          "hu": "mi"
+        },
+        {
+          "es": "vosotros",
+          "hu": "ti"
+        },
+        {
+          "es": "ellos",
+          "hu": "ők"
+        }
+      ],
+      "explanation": "A spanyol névmás gyakran elmarad, mert az ige ragja mutatja a személyt."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Spanyolul tanulok.",
+      "answers": [
+        "estudio español",
+        "yo estudio español"
+      ],
+      "explanation": "A yo elhagyható, az ige ragja mutatja a személyt."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Honnan jössz?",
+      "answers": [
+        "de dónde eres",
+        "de dónde eres tú",
+        "tú de dónde eres"
+      ],
+      "explanation": "ser + de: eredet."
+    },
+    {
+      "id": "q7",
+      "type": "fillBlank",
+      "prompt": "___ sois de Hungría. (ti)",
+      "answers": [
+        "vosotros",
+        "vosotras"
+      ],
+      "explanation": "sois = ti vagytok."
+    },
+    {
+      "id": "q8",
+      "type": "translateToHu",
+      "prompt": "Hablamos español.",
+      "answers": [
+        "spanyolul beszélünk",
+        "beszélünk spanyolul",
+        "mi spanyolul beszélünk"
+      ],
+      "explanation": "A -mos rag a mi."
+    },
+    {
+      "id": "q9",
+      "type": "multipleChoice",
+      "prompt": "Mi a különbség: tú és tu?",
+      "options": [
+        "tú = te, tu = a te...",
+        "Nincs különbség",
+        "tú = ti"
+      ],
+      "answer": 0,
+      "explanation": "tú tienes tu libro = neked megvan a könyved."
+    }
+  ]
+}

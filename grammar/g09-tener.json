@@ -1,0 +1,279 @@
+{
+  "id": "g09-tener",
+  "titleHu": "Tener és kifejezései",
+  "subtitleEs": "tengo, tienes, tiene",
+  "order": 9,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mire való?",
+      "body": "A **tener** azt jelenti: birtokolni, „van valamije”. Magyarul: nekem van egy kutyám. Spanyolul: Tengo un perro.\nRendhagyó: yo **tengo**, és tőhangváltós (e > ie): tienes, tiene, tienen."
+    },
+    {
+      "type": "table",
+      "title": "Jelen idő",
+      "columns": [
+        "",
+        "tener"
+      ],
+      "rows": [
+        [
+          "yo",
+          "tengo"
+        ],
+        [
+          "tú",
+          "tienes"
+        ],
+        [
+          "él, ella, usted",
+          "tiene"
+        ],
+        [
+          "nosotros, nosotras",
+          "tenemos"
+        ],
+        [
+          "vosotros, vosotras",
+          "tenéis"
+        ],
+        [
+          "ellos, ellas, ustedes",
+          "tienen"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Testérzet és kor",
+      "body": "Spanyolul nem „éhes vagyok”, hanem „éhségem van”. Ugyanígy a kor: „harminc évem van”."
+    },
+    {
+      "type": "table",
+      "title": "Tener kifejezések",
+      "columns": [
+        "Spanyol",
+        "Magyar"
+      ],
+      "rows": [
+        [
+          "tener hambre",
+          "éhesnek lenni"
+        ],
+        [
+          "tener sed",
+          "szomjasnak lenni"
+        ],
+        [
+          "tener frío",
+          "fázni"
+        ],
+        [
+          "tener calor",
+          "melege van"
+        ],
+        [
+          "tener sueño",
+          "álmosnak lenni"
+        ],
+        [
+          "tener … años",
+          "… évesnek lenni"
+        ],
+        [
+          "tener que + főnévi igenév",
+          "kell (valamit csinálni)"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Tener que",
+      "body": "Kötelesség: Tengo que trabajar = Dolgoznom kell.\nA tener ragozódik, a második ige főnévi igenév marad: tenemos que estudiar."
+    },
+    {
+      "type": "tip",
+      "title": "Mennyire?",
+      "body": "Az hambre és a sed nőnemű, ezért **mucha** hambre, **mucha** sed.\nA frío és a calor hímnemű: **mucho** frío, **mucho** calor."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Tengo un perro y dos gatos.",
+          "hu": "Van egy kutyám és két macskám."
+        },
+        {
+          "es": "¿Cuántos años tienes?",
+          "hu": "Hány éves vagy?"
+        },
+        {
+          "es": "Mi abuela tiene ochenta años.",
+          "hu": "A nagymamám nyolcvanéves."
+        },
+        {
+          "es": "Tengo mucha hambre.",
+          "hu": "Nagyon éhes vagyok."
+        },
+        {
+          "es": "¿Tienes frío?",
+          "hu": "Fázol?"
+        },
+        {
+          "es": "En verano tenemos calor.",
+          "hu": "Nyáron melegünk van."
+        },
+        {
+          "es": "Tengo que hacer los deberes.",
+          "hu": "Meg kell csinálnom a házit."
+        },
+        {
+          "es": "Mis padres tienen una casa en la playa.",
+          "hu": "A szüleimnek van egy háza a tengerparton."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Éhes vagyok: tengo hambre, nem estoy hambre.",
+        "Melegem van: tengo calor. Az estoy caliente szexuális jelentésű, kerüld!",
+        "Hány éves vagy? ¿Cuántos años tienes?, nem ser-rel.",
+        "mucha hambre, mucha sed, de mucho frío, mucho calor.",
+        "tener que után főnévi igenév: tengo que estudiar, nem tengo que estudio."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "fillBlank",
+      "prompt": "Yo ___ un perro.",
+      "answers": [
+        "tengo"
+      ],
+      "explanation": "Rendhagyó yo alak: tengo."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "¿Cuántos años ___ tú?",
+      "answers": [
+        "tienes"
+      ],
+      "explanation": "e > ie: tienes."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "Melegem van.",
+      "options": [
+        "Tengo calor",
+        "Estoy caliente",
+        "Soy calor"
+      ],
+      "answer": 0,
+      "explanation": "Az időjárás okozta meleg: tener calor."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Nagyon éhes vagyok.",
+      "options": [
+        "Tengo mucho hambre",
+        "Tengo mucha hambre",
+        "Estoy mucha hambre"
+      ],
+      "answer": 1,
+      "explanation": "Az hambre nőnemű, ezért mucha."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Fázom.",
+      "answers": [
+        "tengo frío",
+        "yo tengo frío"
+      ],
+      "explanation": "tener frío = fázni."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Szomjas vagyok.",
+      "answers": [
+        "tengo sed",
+        "yo tengo sed"
+      ],
+      "explanation": "tener sed = szomjasnak lenni."
+    },
+    {
+      "id": "q7",
+      "type": "translateToEs",
+      "prompt": "Dolgoznom kell.",
+      "answers": [
+        "tengo que trabajar",
+        "yo tengo que trabajar"
+      ],
+      "explanation": "tener que + főnévi igenév."
+    },
+    {
+      "id": "q8",
+      "type": "reorder",
+      "prompt": "Rakd sorba: A nagymamám nyolcvanéves.",
+      "tiles": [
+        "mi",
+        "abuela",
+        "tiene",
+        "ochenta",
+        "años"
+      ],
+      "answers": [
+        "mi abuela tiene ochenta años"
+      ],
+      "explanation": "Kor: tener … años."
+    },
+    {
+      "id": "q9",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "tener hambre",
+          "hu": "éhesnek lenni"
+        },
+        {
+          "es": "tener sed",
+          "hu": "szomjasnak lenni"
+        },
+        {
+          "es": "tener frío",
+          "hu": "fázni"
+        },
+        {
+          "es": "tener calor",
+          "hu": "melege van"
+        },
+        {
+          "es": "tener sueño",
+          "hu": "álmosnak lenni"
+        }
+      ],
+      "explanation": "Spanyolul ezek az érzetek tener + főnév: „éhségem van”."
+    },
+    {
+      "id": "q10",
+      "type": "fillBlank",
+      "prompt": "Nosotros ___ que estudiar. (kell)",
+      "answers": [
+        "tenemos"
+      ],
+      "explanation": "A nosotros alakban nincs tőhangváltás: tenemos."
+    }
+  ]
+}

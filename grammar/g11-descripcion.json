@@ -1,0 +1,285 @@
+{
+  "id": "g11-descripcion",
+  "titleHu": "Külső leírás",
+  "subtitleEs": "es alto, tiene el pelo largo, lleva gafas",
+  "order": 11,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Három ige",
+      "body": "Külső leíráshoz három igét használsz:\n**ser**: alkat, magasság, kor (Es alto y delgado.)\n**tener**: testrész + melléknév (Tiene el pelo largo. Tiene los ojos verdes.)\n**llevar**: amit visel (Lleva gafas.)"
+    },
+    {
+      "type": "table",
+      "title": "Melyik ige?",
+      "columns": [
+        "Ige",
+        "Mire?",
+        "Példa"
+      ],
+      "rows": [
+        [
+          "ser",
+          "alkat, magasság, kor, jellem",
+          "Es alto y delgado."
+        ],
+        [
+          "tener",
+          "haj, szem",
+          "Tiene el pelo largo."
+        ],
+        [
+          "llevar",
+          "szemüveg, ruha, szakáll",
+          "Lleva gafas."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Haj és szem",
+      "columns": [
+        "Spanyol",
+        "Magyar"
+      ],
+      "rows": [
+        [
+          "el pelo largo / corto",
+          "hosszú / rövid haj"
+        ],
+        [
+          "el pelo rubio",
+          "szőke haj"
+        ],
+        [
+          "el pelo moreno",
+          "barna, sötét haj"
+        ],
+        [
+          "el pelo rizado / liso",
+          "göndör / egyenes haj"
+        ],
+        [
+          "los ojos azules",
+          "kék szem"
+        ],
+        [
+          "los ojos marrones",
+          "barna szem"
+        ],
+        [
+          "los ojos verdes",
+          "zöld szem"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Alkat",
+      "columns": [
+        "Spanyol",
+        "Magyar"
+      ],
+      "rows": [
+        [
+          "alto ↔ bajo",
+          "magas ↔ alacsony"
+        ],
+        [
+          "gordo ↔ delgado",
+          "kövér ↔ vékony"
+        ],
+        [
+          "joven ↔ mayor",
+          "fiatal ↔ idős"
+        ],
+        [
+          "de estatura media",
+          "közepes termetű"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "Magyarul is „hosszú haja **van**”, ezért itt tener jár: Tiene el pelo largo. Az **el** névelő kell!\nA szem spanyolul többes számú (los ojos azules), magyarul egyes: kék szeme van."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Mi hermano es alto y delgado.",
+          "hu": "A fiútestvérem magas és vékony."
+        },
+        {
+          "es": "Tiene el pelo corto y los ojos azules.",
+          "hu": "Rövid haja és kék szeme van."
+        },
+        {
+          "es": "Mi abuela es baja y lleva gafas.",
+          "hu": "A nagymamám alacsony és szemüveget hord."
+        },
+        {
+          "es": "Ana tiene el pelo largo y rubio.",
+          "hu": "Anának hosszú, szőke haja van."
+        },
+        {
+          "es": "¿Cómo es tu profesora?",
+          "hu": "Milyen a tanárnőd?"
+        },
+        {
+          "es": "Es joven, morena y muy simpática.",
+          "hu": "Fiatal, barna hajú és nagyon kedves."
+        },
+        {
+          "es": "Mi padre lleva barba.",
+          "hu": "Az apám szakállas."
+        },
+        {
+          "es": "Tengo los ojos marrones.",
+          "hu": "Barna szemem van."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Haj és szem: tener, nem ser. Ne: es pelo largo.",
+        "Kell a névelő, de nincs birtokos: tiene el pelo largo, nem tiene su pelo largo.",
+        "Szem: los ojos azules (többes szám), magyarul egyes szám.",
+        "Szemüveg: las gafas mindig többes: lleva gafas.",
+        "¿Cómo es? = Milyen? (külső, jellem). ¿Cómo está? = Hogy van?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "Hosszú haja van.",
+      "options": [
+        "Es el pelo largo",
+        "Tiene el pelo largo",
+        "Está el pelo largo"
+      ],
+      "answer": 1,
+      "explanation": "Haj: tener + el pelo + melléknév."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "Mi hermano ___ alto y delgado.",
+      "answers": [
+        "es"
+      ],
+      "explanation": "Alkat: ser."
+    },
+    {
+      "id": "q3",
+      "type": "fillBlank",
+      "prompt": "Mi abuela ___ gafas. (hord)",
+      "answers": [
+        "lleva"
+      ],
+      "explanation": "Amit visel: llevar."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Kék szeme van.",
+      "options": [
+        "Tiene los ojos azules",
+        "Tiene el ojo azul",
+        "Es ojos azules"
+      ],
+      "answer": 0,
+      "explanation": "Spanyolul a szem többes számú: los ojos azules."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Magas és vékony. (férfi)",
+      "answers": [
+        "es alto y delgado",
+        "él es alto y delgado"
+      ],
+      "explanation": "Alkat: ser. Nőre: es alta y delgada."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Szemüveget hord.",
+      "answers": [
+        "lleva gafas",
+        "él lleva gafas",
+        "ella lleva gafas"
+      ],
+      "explanation": "llevar gafas, névelő nélkül."
+    },
+    {
+      "id": "q7",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Rövid haja és barna szeme van.",
+      "tiles": [
+        "tiene",
+        "el",
+        "pelo",
+        "corto",
+        "y",
+        "los",
+        "ojos",
+        "marrones"
+      ],
+      "answers": [
+        "tiene el pelo corto y los ojos marrones",
+        "tiene los ojos marrones y el pelo corto"
+      ],
+      "explanation": "Egy tener elég mindkettőhöz."
+    },
+    {
+      "id": "q8",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "el pelo",
+          "hu": "a haj"
+        },
+        {
+          "es": "los ojos",
+          "hu": "a szemek"
+        },
+        {
+          "es": "la estatura",
+          "hu": "a testmagasság"
+        },
+        {
+          "es": "las gafas",
+          "hu": "a szemüveg"
+        },
+        {
+          "es": "rubio",
+          "hu": "szőke"
+        }
+      ],
+      "explanation": "A szem többes szám (los ojos), a szemüveg is (las gafas)."
+    },
+    {
+      "id": "q9",
+      "type": "multipleChoice",
+      "prompt": "Mit kérdez: ¿Cómo es tu hermana?",
+      "options": [
+        "Milyen a lánytestvéred?",
+        "Hogy van a lánytestvéred?",
+        "Hol van a lánytestvéred?"
+      ],
+      "answer": 0,
+      "explanation": "ser: milyen. estar: hogy van."
+    }
+  ]
+}

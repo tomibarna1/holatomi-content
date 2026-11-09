@@ -1,0 +1,310 @@
+{
+  "id": "g08-adjetivos",
+  "titleHu": "Melléknevek",
+  "subtitleEs": "alto, alta, altos, altas",
+  "order": 8,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Egyeztetés",
+      "body": "A melléknév **nemben és számban igazodik** a főnévhez: el perro pequeño, la casa pequeña, los perros pequeños, las casas pequeñas.\nAz -e végű és a mássalhangzós melléknév csak számban változik: un chico inteligente, una chica inteligente."
+    },
+    {
+      "type": "table",
+      "title": "Egyeztetés",
+      "columns": [
+        "",
+        "hímnem",
+        "nőnem"
+      ],
+      "rows": [
+        [
+          "-o / -a, egyes",
+          "alto",
+          "alta"
+        ],
+        [
+          "-o / -a, többes",
+          "altos",
+          "altas"
+        ],
+        [
+          "-e, egyes",
+          "fuerte",
+          "fuerte"
+        ],
+        [
+          "-e, többes",
+          "fuertes",
+          "fuertes"
+        ],
+        [
+          "mássalhangzó, egyes",
+          "joven",
+          "joven"
+        ],
+        [
+          "mássalhangzó, többes",
+          "jóvenes",
+          "jóvenes"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Hova kerül?",
+      "body": "Általában a főnév **után**, a magyarral ellentétben: una casa grande (egy nagy ház).\nNéhány gyakori melléknév előre is jöhet, ilyenkor rövidül:\n**bueno → buen**, **malo → mal** hímnemű egyes szám előtt: un buen día, un mal día.\n**grande → gran** minden egyes szám előtt, és a jelentése is változik: nagyszerű."
+    },
+    {
+      "type": "table",
+      "title": "buen, mal, gran",
+      "columns": [
+        "főnév előtt",
+        "főnév után"
+      ],
+      "rows": [
+        [
+          "un buen libro (jó könyv)",
+          "un libro bueno (jó könyv)"
+        ],
+        [
+          "un mal día (rossz nap)",
+          "un día malo (rossz nap)"
+        ],
+        [
+          "un gran amigo (nagyszerű barát)",
+          "un amigo grande (nagydarab barát)"
+        ],
+        [
+          "una gran ciudad (nagyszerű város)",
+          "una ciudad grande (nagy város)"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Ellentétpárok",
+      "columns": [
+        "Spanyol",
+        "Magyar"
+      ],
+      "rows": [
+        [
+          "alto ↔ bajo",
+          "magas ↔ alacsony"
+        ],
+        [
+          "grande ↔ pequeño",
+          "nagy ↔ kicsi"
+        ],
+        [
+          "nuevo ↔ viejo",
+          "új ↔ régi, öreg"
+        ],
+        [
+          "limpio ↔ sucio",
+          "tiszta ↔ piszkos"
+        ],
+        [
+          "rápido ↔ lento",
+          "gyors ↔ lassú"
+        ],
+        [
+          "fuerte ↔ débil",
+          "erős ↔ gyenge"
+        ],
+        [
+          "rico ↔ pobre",
+          "gazdag ↔ szegény"
+        ],
+        [
+          "bueno ↔ malo",
+          "jó ↔ rossz"
+        ],
+        [
+          "corto ↔ largo",
+          "rövid ↔ hosszú"
+        ],
+        [
+          "contento ↔ triste",
+          "vidám ↔ szomorú"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "A magyar melléknév elöl áll és nem ragozódik: a magas lányok. A spanyol általában hátul áll, és mindig egyeztetni kell: las chicas **altas**."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Tengo un perro pequeño.",
+          "hu": "Van egy kis kutyám."
+        },
+        {
+          "es": "Mi casa es grande y bonita.",
+          "hu": "A házam nagy és szép."
+        },
+        {
+          "es": "Las calles están limpias.",
+          "hu": "Az utcák tiszták."
+        },
+        {
+          "es": "Hoy es un buen día.",
+          "hu": "Ma jó nap van."
+        },
+        {
+          "es": "Madrid es una gran ciudad.",
+          "hu": "Madrid nagyszerű város."
+        },
+        {
+          "es": "Mis hermanas son altas y delgadas.",
+          "hu": "A lánytestvéreim magasak és vékonyak."
+        },
+        {
+          "es": "Los libros son nuevos.",
+          "hu": "A könyvek újak."
+        },
+        {
+          "es": "Es una chica inteligente y fuerte.",
+          "hu": "Okos és erős lány."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Egyeztess: las casas pequeñas, nem las casas pequeño.",
+        "A buen csak hímnemű egyes főnév előtt áll: un buen día, de una buena amiga.",
+        "grande főnév előtt gran, és jelentése: nagyszerű.",
+        "feliz → felices (a z c-re vált), joven → jóvenes (ékezet kerül rá).",
+        "A viejo tárgyra régi, emberre öreg. Idős emberre udvariasabb: mayor."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "las casas ___",
+      "options": [
+        "pequeño",
+        "pequeña",
+        "pequeñas",
+        "pequeños"
+      ],
+      "answer": 2,
+      "explanation": "Nőnem, többes szám: pequeñas."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "Es un ___ día. (jó)",
+      "answers": [
+        "buen"
+      ],
+      "explanation": "Hímnemű egyes főnév előtt bueno → buen."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "Mit jelent: un gran amigo?",
+      "options": [
+        "nagyszerű barát",
+        "nagydarab barát",
+        "öreg barát"
+      ],
+      "answer": 0,
+      "explanation": "Főnév előtt a gran jelentése: nagyszerű."
+    },
+    {
+      "id": "q4",
+      "type": "fillBlank",
+      "prompt": "feliz → (többes) ___",
+      "answers": [
+        "felices"
+      ],
+      "explanation": "A z c-re vált: felices."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "egy kis kutya",
+      "answers": [
+        "un perro pequeño"
+      ],
+      "explanation": "A melléknév a főnév után áll."
+    },
+    {
+      "id": "q6",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Az utcák tiszták.",
+      "tiles": [
+        "las",
+        "calles",
+        "están",
+        "limpias"
+      ],
+      "answers": [
+        "las calles están limpias"
+      ],
+      "explanation": "calle nőnem, többes: limpias."
+    },
+    {
+      "id": "q7",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "limpio",
+          "hu": "tiszta"
+        },
+        {
+          "es": "sucio",
+          "hu": "piszkos"
+        },
+        {
+          "es": "rápido",
+          "hu": "gyors"
+        },
+        {
+          "es": "lento",
+          "hu": "lassú"
+        },
+        {
+          "es": "débil",
+          "hu": "gyenge"
+        }
+      ],
+      "explanation": "Ellentétpárok: a melléknév egyeztetődik a főnévvel (limpia, limpios)."
+    },
+    {
+      "id": "q8",
+      "type": "multipleChoice",
+      "prompt": "Melyik a helyes?",
+      "options": [
+        "una chica inteligenta",
+        "una chica inteligente",
+        "una inteligente chica"
+      ],
+      "answer": 1,
+      "explanation": "Az -e végű melléknév nőnemben sem változik."
+    },
+    {
+      "id": "q9",
+      "type": "translateToHu",
+      "prompt": "Los libros son nuevos.",
+      "answers": [
+        "a könyvek újak"
+      ],
+      "explanation": "nuevo ↔ viejo: új ↔ régi."
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "g06-ser",
+  "titleHu": "Ser",
+  "subtitleEs": "soy, eres, es",
+  "order": 6,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mire való?",
+      "body": "A **ser** a „lenni” egyik spanyol megfelelője. Arra használod, ami valakinek vagy valaminek a **lényege**, nem pillanatnyi állapota: ki vagy, honnan jössz, mi a foglalkozásod, milyen vagy, és mennyi az idő.\nA magyarban harmadik személyben nincs ige (Péter magas). A spanyolban mindig kell: Pedro **es** alto."
+    },
+    {
+      "type": "table",
+      "title": "Jelen idő",
+      "columns": [
+        "",
+        "ser"
+      ],
+      "rows": [
+        [
+          "yo",
+          "soy"
+        ],
+        [
+          "tú",
+          "eres"
+        ],
+        [
+          "él, ella, usted",
+          "es"
+        ],
+        [
+          "nosotros, nosotras",
+          "somos"
+        ],
+        [
+          "vosotros, vosotras",
+          "sois"
+        ],
+        [
+          "ellos, ellas, ustedes",
+          "son"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Mikor ser?",
+      "columns": [
+        "Használat",
+        "Példa",
+        "Magyarul"
+      ],
+      "rows": [
+        [
+          "kiléte",
+          "Soy Tomi.",
+          "Tomi vagyok."
+        ],
+        [
+          "eredet, nemzetiség",
+          "Soy de Hungría. Soy húngaro.",
+          "Magyarországról jöttem. Magyar vagyok."
+        ],
+        [
+          "foglalkozás",
+          "Soy profesor.",
+          "Tanár vagyok."
+        ],
+        [
+          "tulajdonság, jellem",
+          "Es alto y simpático.",
+          "Magas és kedves."
+        ],
+        [
+          "idő, nap",
+          "Son las tres. Hoy es martes.",
+          "Három óra van. Ma kedd van."
+        ],
+        [
+          "anyag",
+          "La mesa es de madera.",
+          "Az asztal fából van."
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "Magyarul: „Tomi tanár.” Spanyolul az ige nem maradhat el: Tomi **es** profesor.\nA foglalkozás előtt nincs névelő: Soy médico (nem: soy un médico)."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Soy Tomi y soy de Hungría.",
+          "hu": "Tomi vagyok, Magyarországról jöttem."
+        },
+        {
+          "es": "Mi hermana es médica.",
+          "hu": "A lánytestvérem orvos."
+        },
+        {
+          "es": "Somos amigos.",
+          "hu": "Barátok vagyunk."
+        },
+        {
+          "es": "¿De dónde sois?",
+          "hu": "Honnan jöttetek?"
+        },
+        {
+          "es": "Ellos son altos y delgados.",
+          "hu": "Ők magasak és vékonyak."
+        },
+        {
+          "es": "Es la una. Son las tres.",
+          "hu": "Egy óra van. Három óra van."
+        },
+        {
+          "es": "Hoy es martes.",
+          "hu": "Ma kedd van."
+        },
+        {
+          "es": "La mesa es de madera.",
+          "hu": "Az asztal fából van."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Foglalkozás előtt nincs un, una: Soy profesor.",
+        "Es la una (egy óra), de son las dos, son las tres (többes szám).",
+        "tú eres, nem tú es.",
+        "A sois ékezet nélkül íródik.",
+        "A hely nem ser, hanem estar: ¿Dónde estás? (Hol vagy?)"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "fillBlank",
+      "prompt": "Yo ___ de Hungría.",
+      "answers": [
+        "soy"
+      ],
+      "explanation": "Eredet: ser + de."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "Nosotros ___ amigos.",
+      "answers": [
+        "somos"
+      ],
+      "explanation": "Kik vagyunk: ser."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "Egy óra van.",
+      "options": [
+        "Es la una",
+        "Son la una",
+        "Está la una"
+      ],
+      "answer": 0,
+      "explanation": "Egy órára es la una, a többire son las..."
+    },
+    {
+      "id": "q4",
+      "type": "serEstar",
+      "prompt": "Mi padre ___ médico.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "explanation": "Foglalkozás: ser."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Magyar vagyok. (férfi)",
+      "answers": [
+        "soy húngaro",
+        "yo soy húngaro"
+      ],
+      "explanation": "Nemzetiség: ser. Nő: soy húngara."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Tanár vagyok. (férfi)",
+      "answers": [
+        "soy profesor",
+        "yo soy profesor"
+      ],
+      "explanation": "Foglalkozás előtt nincs un."
+    },
+    {
+      "id": "q7",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Az asztal fából van.",
+      "tiles": [
+        "la",
+        "mesa",
+        "es",
+        "de",
+        "madera"
+      ],
+      "answers": [
+        "la mesa es de madera"
+      ],
+      "explanation": "Anyag: ser de."
+    },
+    {
+      "id": "q8",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "Soy de Hungría",
+          "hu": "Magyarországról jöttem"
+        },
+        {
+          "es": "Es alto",
+          "hu": "Magas"
+        },
+        {
+          "es": "Son las dos",
+          "hu": "Két óra van"
+        },
+        {
+          "es": "Somos amigos",
+          "hu": "Barátok vagyunk"
+        },
+        {
+          "es": "Hoy es martes",
+          "hu": "Ma kedd van"
+        }
+      ],
+      "explanation": "Mind ser: eredet, tulajdonság, idő, kik vagyunk."
+    },
+    {
+      "id": "q9",
+      "type": "translateToHu",
+      "prompt": "Eres muy simpático.",
+      "answers": [
+        "nagyon kedves vagy",
+        "nagyon szimpatikus vagy"
+      ],
+      "explanation": "Jellem: ser."
+    }
+  ]
+}

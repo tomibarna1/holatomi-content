@@ -1,0 +1,268 @@
+{
+  "id": "g10-hay-estar",
+  "titleHu": "Hay vagy estar",
+  "subtitleEs": "hay, está, encima de",
+  "order": 10,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Mire való?",
+      "body": "A **hay** (a haber igéből) azt jelenti: van, létezik, található. Akkor használod, ha valaminek a **létezését** közlöd, többnyire új információként: Hay un libro en la mesa (Van egy könyv az asztalon).\nMindig ugyanaz az alak, többes számban is: Hay dos libros.\nAz **estar** egy már ismert, konkrét dolog **helyét** mondja meg: El libro está en la mesa (A könyv az asztalon van)."
+    },
+    {
+      "type": "table",
+      "title": "Hay vagy estar?",
+      "columns": [
+        "hay",
+        "estar"
+      ],
+      "rows": [
+        [
+          "un, una, unos, unas + főnév",
+          "el, la, los, las + főnév"
+        ],
+        [
+          "szám, mucho, poco + főnév",
+          "mi, tu + főnév"
+        ],
+        [
+          "névelő nélkül: Hay agua.",
+          "tulajdonnév: Madrid está en España."
+        ],
+        [
+          "Hay un parque cerca.",
+          "El parque está cerca."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Helyhatározók",
+      "columns": [
+        "Spanyol",
+        "Magyar",
+        "Példa"
+      ],
+      "rows": [
+        [
+          "en",
+          "-ban, -ben, -on, -en",
+          "en la mesa"
+        ],
+        [
+          "encima de",
+          "valaminek a tetején",
+          "encima de la mesa"
+        ],
+        [
+          "debajo de",
+          "valami alatt",
+          "debajo de la silla"
+        ],
+        [
+          "al lado de",
+          "valami mellett",
+          "al lado del hotel"
+        ],
+        [
+          "delante de",
+          "valami előtt",
+          "delante de la puerta"
+        ],
+        [
+          "detrás de",
+          "valami mögött",
+          "detrás de la casa"
+        ],
+        [
+          "entre",
+          "valami között",
+          "entre el bar y el parque"
+        ],
+        [
+          "cerca de, lejos de",
+          "közel, messze",
+          "cerca de la playa"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "A magyar raggal vagy névutóval jelöli a helyet, ami a szó UTÁN áll: az asztal alatt. A spanyol elöljárót használ, ami a szó ELŐTT áll: **debajo de** la mesa.\nde + el = **del**: al lado **del** parque."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Hay un gato debajo de la mesa.",
+          "hu": "Van egy macska az asztal alatt."
+        },
+        {
+          "es": "El gato está debajo de la mesa.",
+          "hu": "A macska az asztal alatt van."
+        },
+        {
+          "es": "En mi calle hay dos bares.",
+          "hu": "Az utcámban két bár van."
+        },
+        {
+          "es": "La biblioteca está al lado del hospital.",
+          "hu": "A könyvtár a kórház mellett van."
+        },
+        {
+          "es": "¿Hay una parada de autobús cerca?",
+          "hu": "Van a közelben buszmegálló?"
+        },
+        {
+          "es": "Mi casa está entre el parque y la escuela.",
+          "hu": "A házam a park és az iskola között van."
+        },
+        {
+          "es": "El ordenador está encima de la mesa.",
+          "hu": "A számítógép az asztalon van."
+        },
+        {
+          "es": "El perro está detrás de la casa.",
+          "hu": "A kutya a ház mögött van."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "A hay után nincs határozott névelő: hay un libro, nem hay el libro.",
+        "Többes számban is hay: hay tres libros.",
+        "de + el = del: al lado del parque.",
+        "Az entre után nem kell de: entre la mesa y la silla.",
+        "„Hol van a könyvtár?” ¿Dónde está la biblioteca? „Van itt könyvtár?” ¿Hay una biblioteca aquí?"
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "___ un libro en la mesa.",
+      "options": [
+        "Hay",
+        "Está"
+      ],
+      "answer": 0,
+      "explanation": "un + főnév: hay."
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": "El libro ___ en la mesa.",
+      "options": [
+        "hay",
+        "está"
+      ],
+      "answer": 1,
+      "explanation": "el + főnév, ismert dolog helye: estar."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "En la clase ___ veinte estudiantes.",
+      "options": [
+        "hay",
+        "están",
+        "han"
+      ],
+      "answer": 0,
+      "explanation": "Szám + főnév: hay, többes számban is."
+    },
+    {
+      "id": "q4",
+      "type": "fillBlank",
+      "prompt": "La silla está al lado ___ mesa. (az asztal mellett)",
+      "answers": [
+        "de la"
+      ],
+      "explanation": "al lado de + la mesa. A de és a la nem olvad össze."
+    },
+    {
+      "id": "q5",
+      "type": "fillBlank",
+      "prompt": "El perro está al lado ___ coche.",
+      "answers": [
+        "del"
+      ],
+      "explanation": "de + el = del."
+    },
+    {
+      "id": "q6",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "encima de",
+          "hu": "valaminek a tetején"
+        },
+        {
+          "es": "debajo de",
+          "hu": "valami alatt"
+        },
+        {
+          "es": "delante de",
+          "hu": "valami előtt"
+        },
+        {
+          "es": "detrás de",
+          "hu": "valami mögött"
+        },
+        {
+          "es": "entre",
+          "hu": "valami között"
+        }
+      ],
+      "explanation": "Az entre kivételével mindegyik után de jön. de + el = del."
+    },
+    {
+      "id": "q7",
+      "type": "translateToEs",
+      "prompt": "Van egy macska az asztal alatt.",
+      "answers": [
+        "hay un gato debajo de la mesa",
+        "debajo de la mesa hay un gato"
+      ],
+      "explanation": "Új információ, un + főnév: hay."
+    },
+    {
+      "id": "q8",
+      "type": "translateToEs",
+      "prompt": "A könyvtár a park mellett van.",
+      "answers": [
+        "la biblioteca está al lado del parque"
+      ],
+      "explanation": "Ismert dolog helye: estar. de + el = del."
+    },
+    {
+      "id": "q9",
+      "type": "reorder",
+      "prompt": "Rakd sorba: A házam a park és az iskola között van.",
+      "tiles": [
+        "mi",
+        "casa",
+        "está",
+        "entre",
+        "el",
+        "parque",
+        "y",
+        "la",
+        "escuela"
+      ],
+      "answers": [
+        "mi casa está entre el parque y la escuela"
+      ],
+      "explanation": "entre ... y ..."
+    }
+  ]
+}

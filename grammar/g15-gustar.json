@@ -1,0 +1,262 @@
+{
+  "id": "g15-gustar",
+  "titleHu": "Gustar",
+  "subtitleEs": "me gusta, me gustan",
+  "order": 15,
+  "level": "A1",
+  "status": "next",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Hogyan működik?",
+      "body": "A **gustar** azt jelenti: tetszik. A mondat alanya nem az „én”, hanem az, **ami tetszik**: Me gusta el café = (Nekem) tetszik a kávé.\nPont úgy, mint a magyarban: tetszik a kávé, tetszenek a kutyák. Ezért az ige a dologhoz igazodik:\negy dolog vagy ige → **gusta**\ntöbb dolog → **gustan**"
+    },
+    {
+      "type": "table",
+      "title": "Kinek tetszik?",
+      "columns": [
+        "Kinek?",
+        "Névmás",
+        "egy dolog",
+        "több dolog"
+      ],
+      "rows": [
+        [
+          "nekem (a mí)",
+          "me",
+          "me gusta el café",
+          "me gustan los perros"
+        ],
+        [
+          "neked (a ti)",
+          "te",
+          "te gusta el café",
+          "te gustan los perros"
+        ],
+        [
+          "neki, Önnek (a él, a ella, a usted)",
+          "le",
+          "le gusta el café",
+          "le gustan los perros"
+        ],
+        [
+          "nekünk (a nosotros)",
+          "nos",
+          "nos gusta el café",
+          "nos gustan los perros"
+        ],
+        [
+          "nektek (a vosotros)",
+          "os",
+          "os gusta el café",
+          "os gustan los perros"
+        ],
+        [
+          "nekik, Önöknek (a ellos, a ellas, a ustedes)",
+          "les",
+          "les gusta el café",
+          "les gustan los perros"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Igével",
+      "body": "Ha egy cselekvés tetszik (főnévi igenév), mindig gusta, akkor is, ha több igéről van szó: Me gusta leer. Me gusta nadar y leer."
+    },
+    {
+      "type": "table",
+      "title": "Én is, én sem",
+      "columns": [
+        "Valaki mondja",
+        "Neked is",
+        "Neked nem"
+      ],
+      "rows": [
+        [
+          "Me gusta el café.",
+          "A mí también. (Nekem is.)",
+          "A mí no. (Nekem nem.)"
+        ],
+        [
+          "No me gusta el té.",
+          "A mí tampoco. (Nekem sem.)",
+          "A mí sí. (Nekem igen.)"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "A logika a magyar tetszik / tetszenek: A kutyák tetszenek nekem = Me gustan los perros.\nAz a mí, a ti hangsúlyoz vagy szembeállít: A mí me gusta, a ti no."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Me gusta el café.",
+          "hu": "Szeretem a kávét."
+        },
+        {
+          "es": "Me gustan los perros.",
+          "hu": "Szeretem a kutyákat."
+        },
+        {
+          "es": "¿Te gusta nadar?",
+          "hu": "Szeretsz úszni?"
+        },
+        {
+          "es": "A mi hermano le gusta jugar al fútbol.",
+          "hu": "A fiútestvérem szeret focizni."
+        },
+        {
+          "es": "Nos gusta ir al cine.",
+          "hu": "Szeretünk moziba járni."
+        },
+        {
+          "es": "No me gustan las serpientes.",
+          "hu": "Nem szeretem a kígyókat."
+        },
+        {
+          "es": "Me gusta la playa. A mí también.",
+          "hu": "Szeretem a strandot. Én is."
+        },
+        {
+          "es": "No me gusta planchar. A mí tampoco.",
+          "hu": "Nem szeretek vasalni. Én sem."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Ne: yo gusto el café. Helyesen: me gusta el café.",
+        "Több dolog: gustan. Me gustan los libros.",
+        "A főnév elé kell a névelő: me gusta el café, nem me gusta café.",
+        "Tagadás után tampoco: No me gusta. A mí tampoco. (nem a mí también no)",
+        "Harmadik személyben a le mellett gyakran ott a név is: A Ana le gusta el té."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "Me ___ los perros.",
+      "options": [
+        "gusta",
+        "gustan"
+      ],
+      "answer": 1,
+      "explanation": "Több dolog tetszik: gustan."
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": "Me ___ leer.",
+      "options": [
+        "gusta",
+        "gustan"
+      ],
+      "answer": 0,
+      "explanation": "Főnévi igenévvel mindig gusta."
+    },
+    {
+      "id": "q3",
+      "type": "fillBlank",
+      "prompt": "¿___ gusta el café? (neked)",
+      "answers": [
+        "te"
+      ],
+      "explanation": "neked = te."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Valaki mondja: No me gusta el té. Te sem szereted. Mit válaszolsz?",
+      "options": [
+        "A mí también",
+        "A mí tampoco",
+        "A mí sí"
+      ],
+      "answer": 1,
+      "explanation": "Tagadásra tampoco: nekem sem."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Szeretem a kávét.",
+      "answers": [
+        "me gusta el café",
+        "a mí me gusta el café"
+      ],
+      "explanation": "Egy dolog: gusta, és kell a névelő."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Szeretem a macskákat.",
+      "answers": [
+        "me gustan los gatos",
+        "a mí me gustan los gatos"
+      ],
+      "explanation": "Több dolog: gustan."
+    },
+    {
+      "id": "q7",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Szeretünk moziba járni.",
+      "tiles": [
+        "nos",
+        "gusta",
+        "ir",
+        "al",
+        "cine"
+      ],
+      "answers": [
+        "nos gusta ir al cine"
+      ],
+      "explanation": "Főnévi igenévvel gusta, a nekünk = nos."
+    },
+    {
+      "id": "q8",
+      "type": "fillBlank",
+      "prompt": "A mi hermano ___ gusta el fútbol.",
+      "answers": [
+        "le"
+      ],
+      "explanation": "neki = le."
+    },
+    {
+      "id": "q9",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "me gusta",
+          "hu": "tetszik nekem"
+        },
+        {
+          "es": "te gusta",
+          "hu": "tetszik neked"
+        },
+        {
+          "es": "a mí también",
+          "hu": "nekem is"
+        },
+        {
+          "es": "a mí tampoco",
+          "hu": "nekem sem"
+        },
+        {
+          "es": "no me gusta",
+          "hu": "nem tetszik nekem"
+        }
+      ],
+      "explanation": "A tampoco a tagadó mondatra felel: nekem sem."
+    }
+  ]
+}

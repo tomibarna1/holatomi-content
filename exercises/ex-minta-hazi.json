@@ -1,0 +1,98 @@
+{
+  "id": "ex-minta-hazi",
+  "titleHu": "Minta házi: ser, estar, tener",
+  "lesson": null,
+  "items": [
+    {
+      "id": "e1",
+      "type": "serEstar",
+      "prompt": "Mi madre ___ de Hungría.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 0,
+      "explanation": "Eredet: ser."
+    },
+    {
+      "id": "e2",
+      "type": "serEstar",
+      "prompt": "Hoy mi padre ___ enfermo.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 1,
+      "explanation": "Pillanatnyi állapot: estar."
+    },
+    {
+      "id": "e3",
+      "type": "serEstar",
+      "prompt": "La biblioteca ___ al lado del parque.",
+      "options": [
+        "es",
+        "está"
+      ],
+      "answer": 1,
+      "explanation": "Hely: estar."
+    },
+    {
+      "id": "e4",
+      "type": "fillBlank",
+      "prompt": "Yo ___ dos hermanos. (tener)",
+      "answers": [
+        "tengo"
+      ],
+      "explanation": "Rendhagyó yo alak: tengo."
+    },
+    {
+      "id": "e5",
+      "type": "fillBlank",
+      "prompt": "¿Cuántos años ___ tu abuela? (tener)",
+      "answers": [
+        "tiene"
+      ],
+      "explanation": "Kor: tener … años."
+    },
+    {
+      "id": "e6",
+      "type": "multipleChoice",
+      "prompt": "Fáradtak vagyunk.",
+      "options": [
+        "Somos cansados",
+        "Estamos cansados",
+        "Tenemos cansados"
+      ],
+      "answer": 1,
+      "explanation": "Állapot: estar."
+    },
+    {
+      "id": "e7",
+      "type": "translateToEs",
+      "prompt": "Éhes vagyok.",
+      "answers": [
+        "tengo hambre",
+        "yo tengo hambre"
+      ],
+      "explanation": "tener hambre, nem estar."
+    },
+    {
+      "id": "e8",
+      "type": "reorder",
+      "prompt": "Rakd sorba: A tanárnőm magas, és szemüveget hord.",
+      "tiles": [
+        "mi",
+        "profesora",
+        "es",
+        "alta",
+        "y",
+        "lleva",
+        "gafas"
+      ],
+      "answers": [
+        "mi profesora es alta y lleva gafas"
+      ],
+      "explanation": "Alkat: ser. Amit visel: llevar."
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "g12-presente-regular",
+  "titleHu": "Szabályos -ar, -er, -ir igék jelen időben",
+  "subtitleEs": "hablo, como, vivo",
+  "order": 12,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Három csoport",
+      "body": "A spanyol igék főnévi igenevének vége **-ar, -er vagy -ir**. Leveszed a végét (hablar → habl-), és a személynek megfelelő ragot teszed rá. Ez olyan, mint a magyar: beszél-ek, beszél-sz, beszél."
+    },
+    {
+      "type": "table",
+      "title": "Jelen idő",
+      "columns": [
+        "",
+        "hablar",
+        "comer",
+        "vivir"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hablo",
+          "como",
+          "vivo"
+        ],
+        [
+          "tú",
+          "hablas",
+          "comes",
+          "vives"
+        ],
+        [
+          "él, ella, usted",
+          "habla",
+          "come",
+          "vive"
+        ],
+        [
+          "nosotros, nosotras",
+          "hablamos",
+          "comemos",
+          "vivimos"
+        ],
+        [
+          "vosotros, vosotras",
+          "habláis",
+          "coméis",
+          "vivís"
+        ],
+        [
+          "ellos, ellas, ustedes",
+          "hablan",
+          "comen",
+          "viven"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Trükk",
+      "body": "Az -er és az -ir csak két alakban különbözik: nosotros (comemos / vivimos) és vosotros (coméis / vivís)."
+    },
+    {
+      "type": "text",
+      "title": "Mire használod?",
+      "body": "Arra, ami most történik, ami rendszeres, és a közeli jövőre is, mint a magyar: Mañana trabajo (Holnap dolgozom)."
+    },
+    {
+      "type": "table",
+      "title": "Gyakori szabályos igék",
+      "columns": [
+        "-ar",
+        "-er",
+        "-ir"
+      ],
+      "rows": [
+        [
+          "hablar (beszélni)",
+          "comer (enni)",
+          "vivir (élni, lakni)"
+        ],
+        [
+          "trabajar (dolgozni)",
+          "beber (inni)",
+          "escribir (írni)"
+        ],
+        [
+          "estudiar (tanulni)",
+          "leer (olvasni)",
+          "abrir (kinyitni)"
+        ],
+        [
+          "escuchar (hallgatni)",
+          "aprender (megtanulni)",
+          "asistir (részt venni)"
+        ],
+        [
+          "cenar (vacsorázni)",
+          "responder (válaszolni)",
+          "compartir (megosztani)"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Hablo español con mi profesora.",
+          "hu": "A tanárnőmmel spanyolul beszélek."
+        },
+        {
+          "es": "¿Dónde vives? Vivo en Budapest.",
+          "hu": "Hol laksz? Budapesten lakom."
+        },
+        {
+          "es": "Mis padres trabajan en un hospital.",
+          "hu": "A szüleim egy kórházban dolgoznak."
+        },
+        {
+          "es": "Comemos a las dos.",
+          "hu": "Kettőkor eszünk."
+        },
+        {
+          "es": "¿Vosotros bebéis café?",
+          "hu": "Isztok kávét?"
+        },
+        {
+          "es": "Leo un libro por la noche.",
+          "hu": "Este olvasok egy könyvet."
+        },
+        {
+          "es": "Mi hermana escribe muy bien.",
+          "hu": "A lánytestvérem nagyon jól ír."
+        },
+        {
+          "es": "Estudiamos español los martes.",
+          "hu": "Keddenként spanyolt tanulunk."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "A vosotros alak ékezetes: habláis, coméis, vivís.",
+        "A harmadik személy nem kap -s-t: él habla, nem él hablas.",
+        "como = eszem, cómo = hogyan.",
+        "Nem minden ige szabályos: ser, estar, tener, ir külön tanulandó, a jugar és a dormir tőhangváltós.",
+        "A névmás elhagyható, az ige ragja elég: Trabajo en Budapest."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "fillBlank",
+      "prompt": "Yo ___ español. (hablar)",
+      "answers": [
+        "hablo"
+      ],
+      "explanation": "-ar ige, yo: -o."
+    },
+    {
+      "id": "q2",
+      "type": "fillBlank",
+      "prompt": "Nosotros ___ en Budapest. (vivir)",
+      "answers": [
+        "vivimos"
+      ],
+      "explanation": "-ir ige, nosotros: -imos."
+    },
+    {
+      "id": "q3",
+      "type": "fillBlank",
+      "prompt": "Vosotros ___ mucho. (comer)",
+      "answers": [
+        "coméis"
+      ],
+      "explanation": "-er ige, vosotros: -éis, ékezettel."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Ella ___ un libro. (leer)",
+      "options": [
+        "lee",
+        "lees",
+        "leo"
+      ],
+      "answer": 0,
+      "explanation": "Harmadik személy: -e."
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": "Melyik alak hibás?",
+      "options": [
+        "vivís",
+        "coméis",
+        "hablais"
+      ],
+      "answer": 2,
+      "explanation": "Helyesen: habláis, ékezettel."
+    },
+    {
+      "id": "q6",
+      "type": "translateToEs",
+      "prompt": "Egy szállodában dolgozom.",
+      "answers": [
+        "trabajo en un hotel",
+        "yo trabajo en un hotel"
+      ],
+      "explanation": "trabajar → trabajo."
+    },
+    {
+      "id": "q7",
+      "type": "translateToEs",
+      "prompt": "Hol laksz?",
+      "answers": [
+        "dónde vives",
+        "dónde vives tú",
+        "tú dónde vives"
+      ],
+      "explanation": "vivir → vives."
+    },
+    {
+      "id": "q8",
+      "type": "reorder",
+      "prompt": "Rakd sorba: A szüleim egy kórházban dolgoznak.",
+      "tiles": [
+        "mis",
+        "padres",
+        "trabajan",
+        "en",
+        "un",
+        "hospital"
+      ],
+      "answers": [
+        "mis padres trabajan en un hospital"
+      ],
+      "explanation": "ellos: -an."
+    },
+    {
+      "id": "q9",
+      "type": "translateToHu",
+      "prompt": "Bebemos agua.",
+      "answers": [
+        "vizet iszunk",
+        "iszunk vizet"
+      ],
+      "explanation": "beber → bebemos."
+    }
+  ]
+}

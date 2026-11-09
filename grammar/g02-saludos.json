@@ -1,0 +1,294 @@
+{
+  "id": "g02-saludos",
+  "titleHu": "Köszönések és búcsúzás",
+  "subtitleEs": "hola, adiós, ¿qué tal?",
+  "order": 2,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Napszak szerint",
+      "body": "**Buenos días**: reggel és délelőtt, Spanyolországban egészen az ebédig (kb. 14 óráig).\n**Buenas tardes**: ebédtől sötétedésig.\n**Buenas noches**: este, köszönésnek ÉS búcsúnak is.\n**Hola** bármikor jó, a **buenas** pedig laza rövidítés."
+    },
+    {
+      "type": "table",
+      "title": "Köszönés",
+      "columns": [
+        "Spanyol",
+        "Magyar",
+        "Mikor?"
+      ],
+      "rows": [
+        [
+          "Hola",
+          "Szia, helló",
+          "bármikor"
+        ],
+        [
+          "Buenas",
+          "Szia (laza)",
+          "bármikor"
+        ],
+        [
+          "Buenos días",
+          "Jó reggelt, jó napot",
+          "délig"
+        ],
+        [
+          "Buenas tardes",
+          "Jó napot",
+          "délután"
+        ],
+        [
+          "Buenas noches",
+          "Jó estét, jó éjszakát",
+          "este"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Tú vagy usted?",
+      "body": "A **tú** a tegező, az **usted** a magázó forma, mint a magyar „Ön”. Az usted mellett az ige harmadik személyben áll: ¿Cómo está usted? (Hogy van?)\nSpanyolországban gyorsan tegeződnek. Usted: idős, idegen embernél, hivatalos helyen.\nTöbbes számban: **vosotros** (ti, tegező) és **ustedes** (Önök, magázó)."
+    },
+    {
+      "type": "table",
+      "title": "Tegező és magázó",
+      "columns": [
+        "Magyar",
+        "tú",
+        "usted"
+      ],
+      "rows": [
+        [
+          "Hogy vagy? / Hogy van?",
+          "¿Cómo estás?",
+          "¿Cómo está?"
+        ],
+        [
+          "Honnan jössz? / Honnan jön?",
+          "¿De dónde eres?",
+          "¿De dónde es?"
+        ],
+        [
+          "Hogy hívnak? / Hogy hívják?",
+          "¿Cómo te llamas?",
+          "¿Cómo se llama?"
+        ],
+        [
+          "És te? / És Ön?",
+          "¿Y tú?",
+          "¿Y usted?"
+        ],
+        [
+          "Legyen szép napod / napja",
+          "Que pases un buen día",
+          "Que pase un buen día"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Búcsú",
+      "columns": [
+        "Spanyol",
+        "Magyar"
+      ],
+      "rows": [
+        [
+          "Adiós",
+          "Viszlát"
+        ],
+        [
+          "Hasta luego",
+          "Viszlát, később találkozunk"
+        ],
+        [
+          "Hasta mañana",
+          "Holnapig, holnap találkozunk"
+        ],
+        [
+          "Hasta pronto",
+          "Nemsokára találkozunk"
+        ],
+        [
+          "Nos vemos",
+          "Találkozunk"
+        ],
+        [
+          "Chao",
+          "Csá, szia"
+        ]
+      ]
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Hola, ¿qué tal?",
+          "hu": "Szia, mi újság?"
+        },
+        {
+          "es": "Buenos días, ¿cómo está usted?",
+          "hu": "Jó napot, hogy van?"
+        },
+        {
+          "es": "Muy bien, gracias, ¿y tú?",
+          "hu": "Nagyon jól, köszönöm, és te?"
+        },
+        {
+          "es": "Encantado, me llamo Tomi.",
+          "hu": "Örvendek, Tominak hívnak."
+        },
+        {
+          "es": "Buenas noches, que duermas bien.",
+          "hu": "Jó éjszakát, aludj jól."
+        },
+        {
+          "es": "Hasta luego, que pases un buen día.",
+          "hu": "Viszlát, legyen szép napod."
+        },
+        {
+          "es": "Nos vemos mañana.",
+          "hu": "Holnap találkozunk."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Gyakori hibák:",
+      "items": [
+        "Usted mellett harmadik személyű ige: ¿Cómo está usted?, nem ¿Cómo estás usted?",
+        "Buenos días (hímnem, mert el día), de buenas tardes, buenas noches (nőnem).",
+        "A buenas noches nem csak búcsú: este érkezéskor is ezzel köszönsz.",
+        "Encantado: férfi mondja. Encantada: nő mondja.",
+        "Hétköznapi búcsúra a hasta luego a leggyakoribb, akkor is, ha nem találkoztok aznap újra."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "Este kilenckor érkezel egy vacsorára. Mivel köszönsz?",
+      "options": [
+        "Buenos días",
+        "Buenas tardes",
+        "Buenas noches"
+      ],
+      "answer": 2,
+      "explanation": "Este köszönésnek is buenas noches jár."
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": "Egy idős, idegen úrtól kérdezed, hogy van. Melyik a jó?",
+      "options": [
+        "¿Cómo estás?",
+        "¿Cómo está?",
+        "¿Qué te cuentas?"
+      ],
+      "answer": 1,
+      "explanation": "Magázásnál harmadik személy: ¿Cómo está (usted)?"
+    },
+    {
+      "id": "q3",
+      "type": "fillBlank",
+      "prompt": "Muy bien, gracias, ¿y ___? (és te?)",
+      "answers": [
+        "tú"
+      ],
+      "explanation": "A tú (te) ékezettel íródik."
+    },
+    {
+      "id": "q4",
+      "type": "translateToEs",
+      "prompt": "Hogy hívnak? (tegező)",
+      "answers": [
+        "cómo te llamas",
+        "tú cómo te llamas"
+      ],
+      "explanation": "llamarse: me llamo, te llamas."
+    },
+    {
+      "id": "q5",
+      "type": "translateToEs",
+      "prompt": "Holnap találkozunk.",
+      "answers": [
+        "nos vemos mañana",
+        "hasta mañana"
+      ],
+      "explanation": "Mindkettő jó búcsú holnapra."
+    },
+    {
+      "id": "q6",
+      "type": "translateToHu",
+      "prompt": "¿Qué tal?",
+      "answers": [
+        "hogy vagy",
+        "mi újság",
+        "hogy vagytok",
+        "hogy van"
+      ],
+      "explanation": "Laza kérdés, tegezve és magázva is jó."
+    },
+    {
+      "id": "q7",
+      "type": "match",
+      "prompt": "Párosítsd!",
+      "pairs": [
+        {
+          "es": "Hola",
+          "hu": "Szia"
+        },
+        {
+          "es": "Adiós",
+          "hu": "Viszlát"
+        },
+        {
+          "es": "Hasta pronto",
+          "hu": "Nemsokára találkozunk"
+        },
+        {
+          "es": "Buenas tardes",
+          "hu": "Jó napot (délután)"
+        },
+        {
+          "es": "Que duermas bien",
+          "hu": "Aludj jól"
+        }
+      ],
+      "explanation": "Napszak szerinti köszönés és búcsú: ezeket naponta használod."
+    },
+    {
+      "id": "q8",
+      "type": "reorder",
+      "prompt": "Rakd sorba: Legyen szép napod!",
+      "tiles": [
+        "que",
+        "pases",
+        "un",
+        "buen",
+        "día"
+      ],
+      "answers": [
+        "que pases un buen día"
+      ],
+      "explanation": "Tegezve pases, magázva pase."
+    },
+    {
+      "id": "q9",
+      "type": "multipleChoice",
+      "prompt": "Egy nő mutatkozik be. Mit mond?",
+      "options": [
+        "Encantado",
+        "Encantada"
+      ],
+      "answer": 1,
+      "explanation": "A melléknév a beszélő nemét követi: nő = encantada."
+    }
+  ]
+}

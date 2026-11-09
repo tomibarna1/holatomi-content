@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-11-09T12:10:44Z",
+  "files": [
+    {
+      "path": "vocab.json",
+      "sha256": "14acf51fc31423fc9d2a4a188d368c79ae0eb75cf7735d0a099f5be7258d06f4",
+      "bytes": 53291
+    },
+    {
+      "path": "verbs.json",
+      "sha256": "186f61d1872ec927c056f432497bb2498f34dfb65f9bb4fbe50b83dd2ed33e56",
+      "bytes": 22184
+    },
+    {
+      "path": "grammar/g01-sonidos.json",
+      "sha256": "33cfa9cc3702ac8184ae01812694db2182d4eb743d84710d4d3d346f040173a8",
+      "bytes": 7415
+    },
+    {
+      "path": "grammar/g02-saludos.json",
+      "sha256": "58e5772245a7f9d04a458c4523b3199207e08cb93a09c7f1da2cfc68fa18de53",
+      "bytes": 7301
+    },
+    {
+      "path": "grammar/g03-articulos.json",
+      "sha256": "9a7df19dd18c12d9cfb8c978cd38e38006e422cbb932a39c528e7476571b8ce6",
+      "bytes": 6890
+    },
+    {
+      "path": "grammar/g04-sustantivos.json",
+      "sha256": "95f0dd01879b0778d0a386936940d811ac372591a4a810455b6aeb04a68815b7",
+      "bytes": 6813
+    },
+    {
+      "path": "grammar/g05-pronombres.json",
+      "sha256": "8aadf76ec5797f6bf4b385b56ba0236317c9b302cee612e2bb0057e1a89297da",
+      "bytes": 6537
+    },
+    {
+      "path": "grammar/g06-ser.json",
+      "sha256": "efb1a51934bb5a60a99b806c654cb2f63671a5b45121210c76e51a183cedb839",
+      "bytes": 6026
+    },
+    {
+      "path": "grammar/g07-estar.json",
+      "sha256": "1732a118c62698e11cb57ac19671f2d95a5301ab998122c0777c5af798fb3d86",
+      "bytes": 6416
+    },
+    {
+      "path": "grammar/g08-adjetivos.json",
+      "sha256": "d4cab5f57a264fb07c5e444d3a1634b975f138bd788124857454acd3df568c1e",
+      "bytes": 7564
+    },
+    {
+      "path": "grammar/g09-tener.json",
+      "sha256": "2f573b2a7751c96cc3ea736878428948853bd615cf8d1fae3b2ed8f59e537efc",
+      "bytes": 6596
+    },
+    {
+      "path": "grammar/g10-hay-estar.json",
+      "sha256": "ae2e5580d87bf805b7b453d94bde62530afb23740b209e6b4567610aa1cdd0e8",
+      "bytes": 6889
+    },
+    {
+      "path": "grammar/g11-descripcion.json",
+      "sha256": "4b4ef70f625331071c65f5ab0a1fb91fd0e8be447ba37a307cacdfcd30753420",
+      "bytes": 6830
+    },
+    {
+      "path": "grammar/g12-presente-regular.json",
+      "sha256": "1528dc2c38762cb6832d701d8928f65e5e4ea70a3ab65b1f53104ae05ff39733",
+      "bytes": 6162
+    },
+    {
+      "path": "grammar/g13-reflexivos.json",
+      "sha256": "68eb6d01f795374a5ab1e5382874663a8a4a69b6162a6dba8f93e27f43f382db",
+      "bytes": 6916
+    },
+    {
+      "path": "grammar/g14-numeros.json",
+      "sha256": "1652b840a42a799fb7a2a2b158572b0a1e56c47760504f8c31f78c4f71a6fac4",
+      "bytes": 9391
+    },
+    {
+      "path": "grammar/g15-gustar.json",
+      "sha256": "322facf0a4d7042961f06614c73a6edce859f26a87c729a3776585cf3e5e994b",
+      "bytes": 6585
+    },
+    {
+      "path": "exercises/ex-minta-hazi.json",
+      "sha256": "1ec8afbeddf20f91cb32e4297085e05a73f4a7d4658e6284fe047f596aea5e0a",
+      "bytes": 2073
+    }
+  ]
+}

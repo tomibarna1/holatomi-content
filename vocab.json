@@ -1,0 +1,2249 @@
+{
+  "schemaVersion": 1,
+  "deckVersion": 1,
+  "updatedAt": "2026-11-09T12:00:00Z",
+  "categories": [
+    {
+      "id": "Saludos",
+      "nameHu": "Köszönések"
+    },
+    {
+      "id": "Pronombres",
+      "nameHu": "Névmások, ser/estar/tener"
+    },
+    {
+      "id": "Verbos -ar",
+      "nameHu": "Igék (-ar)"
+    },
+    {
+      "id": "Adjetivos",
+      "nameHu": "Melléknevek"
+    },
+    {
+      "id": "Físico",
+      "nameHu": "Külső leírás"
+    },
+    {
+      "id": "Tener",
+      "nameHu": "Tener kifejezések"
+    },
+    {
+      "id": "Lugares",
+      "nameHu": "Helyek"
+    },
+    {
+      "id": "Cosas",
+      "nameHu": "Tárgyak"
+    },
+    {
+      "id": "Personas",
+      "nameHu": "Emberek"
+    },
+    {
+      "id": "Animales",
+      "nameHu": "Állatok"
+    },
+    {
+      "id": "Artículos",
+      "nameHu": "Névelők"
+    },
+    {
+      "id": "Números",
+      "nameHu": "Számok"
+    },
+    {
+      "id": "Rutina",
+      "nameHu": "Napi rutin"
+    },
+    {
+      "id": "Casa",
+      "nameHu": "Házimunka"
+    },
+    {
+      "id": "Tiempo libre",
+      "nameHu": "Szabadidő"
+    },
+    {
+      "id": "Tiempo",
+      "nameHu": "Idő"
+    }
+  ],
+  "cards": [
+    {
+      "id": "saludos.hola",
+      "category": "Saludos",
+      "es": "Hola",
+      "hu": "Szia / Helló",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.buenas",
+      "category": "Saludos",
+      "es": "Buenas",
+      "hu": "Szia (laza köszönés)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.buenos_dias",
+      "category": "Saludos",
+      "es": "Buenos días",
+      "hu": "Jó reggelt / Jó napot (délig)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.buenas_tardes",
+      "category": "Saludos",
+      "es": "Buenas tardes",
+      "hu": "Jó napot (délután)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.buenas_noches",
+      "category": "Saludos",
+      "es": "Buenas noches",
+      "hu": "Jó estét / Jó éjszakát",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.que_tal",
+      "category": "Saludos",
+      "es": "¿Qué tal?",
+      "hu": "Hogy vagy? / Mi újság?",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.como_estas",
+      "category": "Saludos",
+      "es": "¿Cómo estás?",
+      "hu": "Hogy vagy? (tegező)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.como_esta",
+      "category": "Saludos",
+      "es": "¿Cómo está?",
+      "hu": "Hogy van? (magázó)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.que_te_cuentas",
+      "category": "Saludos",
+      "es": "¿Qué te cuentas?",
+      "hu": "Mi újság veled?",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.todo_bien",
+      "category": "Saludos",
+      "es": "¿Todo bien?",
+      "hu": "Minden rendben?",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.bien_y_tu",
+      "category": "Saludos",
+      "es": "Bien, ¿y tú?",
+      "hu": "Jól, és te?",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.muy_bien_gracias",
+      "category": "Saludos",
+      "es": "Muy bien, gracias",
+      "hu": "Nagyon jól, köszönöm",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.adios",
+      "category": "Saludos",
+      "es": "Adiós",
+      "hu": "Viszlát",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.nos_vemos",
+      "category": "Saludos",
+      "es": "Nos vemos",
+      "hu": "Találkozunk / Majd látjuk egymást",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.hasta_pronto",
+      "category": "Saludos",
+      "es": "Hasta pronto",
+      "hu": "Nemsokára találkozunk",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.hasta_luego",
+      "category": "Saludos",
+      "es": "Hasta luego",
+      "hu": "Viszlát / Később találkozunk",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.hasta_manana",
+      "category": "Saludos",
+      "es": "Hasta mañana",
+      "hu": "Holnapig / Holnap találkozunk",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.chao",
+      "category": "Saludos",
+      "es": "Chao",
+      "hu": "Csá / Szia (búcsúzás)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.que_pases_un_buen_dia",
+      "category": "Saludos",
+      "es": "Que pases un buen día",
+      "hu": "Legyen szép napod",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.que_pase_un_buen_dia",
+      "category": "Saludos",
+      "es": "Que pase un buen día",
+      "hu": "Legyen szép napja (magázó)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.que_vaya_bien",
+      "category": "Saludos",
+      "es": "Que vaya bien",
+      "hu": "Minden jót / Sok sikert",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "saludos.que_duermas_bien",
+      "category": "Saludos",
+      "es": "Que duermas bien",
+      "hu": "Aludj jól",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.yo",
+      "category": "Pronombres",
+      "es": "yo",
+      "hu": "én",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.tu",
+      "category": "Pronombres",
+      "es": "tú",
+      "hu": "te",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.el_ella_usted",
+      "category": "Pronombres",
+      "es": "él / ella / usted",
+      "hu": "ő (férfi) / ő (nő) / Ön",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.nosotros_nosotras",
+      "category": "Pronombres",
+      "es": "nosotros / nosotras",
+      "hu": "mi (férfi, vegyes / nők)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.vosotros_vosotras",
+      "category": "Pronombres",
+      "es": "vosotros / vosotras",
+      "hu": "ti",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.ellos_ellas_ustedes",
+      "category": "Pronombres",
+      "es": "ellos / ellas / ustedes",
+      "hu": "ők / ők (nők) / Önök",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.ser_soy_eres_es_somos_sois_son",
+      "category": "Pronombres",
+      "es": "ser: soy, eres, es, somos, sois, son",
+      "hu": "lenni (állandó tulajdonság, kiléte valaminek)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.estar_estoy_estas_esta_estamos_estais_estan",
+      "category": "Pronombres",
+      "es": "estar: estoy, estás, está, estamos, estáis, están",
+      "hu": "lenni (állapot, hely)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.tener_tengo_tienes_tiene_tenemos_teneis_tienen",
+      "category": "Pronombres",
+      "es": "tener: tengo, tienes, tiene, tenemos, tenéis, tienen",
+      "hu": "van neki valamije, birtokolni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "pronombres.hay",
+      "category": "Pronombres",
+      "es": "hay",
+      "hu": "van, található (haber)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.estudiar",
+      "category": "Verbos -ar",
+      "es": "estudiar",
+      "hu": "tanulni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.trabajar",
+      "category": "Verbos -ar",
+      "es": "trabajar",
+      "hu": "dolgozni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.viajar",
+      "category": "Verbos -ar",
+      "es": "viajar",
+      "hu": "utazni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.visitar",
+      "category": "Verbos -ar",
+      "es": "visitar",
+      "hu": "meglátogatni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.practicar",
+      "category": "Verbos -ar",
+      "es": "practicar",
+      "hu": "gyakorolni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.explicar",
+      "category": "Verbos -ar",
+      "es": "explicar",
+      "hu": "elmagyarázni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.esperar",
+      "category": "Verbos -ar",
+      "es": "esperar",
+      "hu": "várni / remélni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.gustar",
+      "category": "Verbos -ar",
+      "es": "gustar",
+      "hu": "tetszeni, ízleni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.usar",
+      "category": "Verbos -ar",
+      "es": "usar",
+      "hu": "használni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.ensenar",
+      "category": "Verbos -ar",
+      "es": "enseñar",
+      "hu": "tanítani / megmutatni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.hablar",
+      "category": "Verbos -ar",
+      "es": "hablar",
+      "hu": "beszélni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.llevar",
+      "category": "Verbos -ar",
+      "es": "llevar",
+      "hu": "viselni / vinni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.guardar",
+      "category": "Verbos -ar",
+      "es": "guardar",
+      "hu": "elmenteni, megőrizni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.quitar",
+      "category": "Verbos -ar",
+      "es": "quitar",
+      "hu": "elvenni, levenni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "verbos_ar.hablo_hablas_habla_hablamos_hablais_hablan",
+      "category": "Verbos -ar",
+      "es": "hablo, hablas, habla, hablamos, habláis, hablan",
+      "hu": "az -ar ige ragozása (jelen idő)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.corto_largo",
+      "category": "Adjetivos",
+      "es": "corto ↔ largo",
+      "hu": "rövid ↔ hosszú",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.lento_rapido",
+      "category": "Adjetivos",
+      "es": "lento ↔ rápido",
+      "hu": "lassú ↔ gyors",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.grande_pequeno",
+      "category": "Adjetivos",
+      "es": "grande ↔ pequeño",
+      "hu": "nagy ↔ kicsi",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.contento_triste",
+      "category": "Adjetivos",
+      "es": "contento ↔ triste",
+      "hu": "vidám, elégedett ↔ szomorú",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.nuevo_viejo",
+      "category": "Adjetivos",
+      "es": "nuevo ↔ viejo",
+      "hu": "új ↔ régi, öreg",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.listo_tonto",
+      "category": "Adjetivos",
+      "es": "listo ↔ tonto",
+      "hu": "okos ↔ buta",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.seco_mojado",
+      "category": "Adjetivos",
+      "es": "seco ↔ mojado",
+      "hu": "száraz ↔ nedves, vizes",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.caliente_frio",
+      "category": "Adjetivos",
+      "es": "caliente ↔ frío",
+      "hu": "forró, meleg ↔ hideg",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.viejo_joven",
+      "category": "Adjetivos",
+      "es": "viejo ↔ joven",
+      "hu": "idős ↔ fiatal",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.alto_bajo",
+      "category": "Adjetivos",
+      "es": "alto ↔ bajo",
+      "hu": "magas ↔ alacsony",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.gordo_delgado",
+      "category": "Adjetivos",
+      "es": "gordo ↔ delgado",
+      "hu": "kövér ↔ vékony",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.pobre_rico",
+      "category": "Adjetivos",
+      "es": "pobre ↔ rico",
+      "hu": "szegény ↔ gazdag",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.fuerte_debil",
+      "category": "Adjetivos",
+      "es": "fuerte ↔ débil",
+      "hu": "erős ↔ gyenge",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.bueno_malo",
+      "category": "Adjetivos",
+      "es": "bueno ↔ malo",
+      "hu": "jó ↔ rossz",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.limpio_sucio",
+      "category": "Adjetivos",
+      "es": "limpio ↔ sucio",
+      "hu": "tiszta ↔ piszkos",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.bonito_bonita",
+      "category": "Adjetivos",
+      "es": "bonito / bonita",
+      "hu": "szép, csinos",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.alegre",
+      "category": "Adjetivos",
+      "es": "alegre",
+      "hu": "vidám",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.aburrido",
+      "category": "Adjetivos",
+      "es": "aburrido",
+      "hu": "unalmas (ser) / unatkozó (estar)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.cansado",
+      "category": "Adjetivos",
+      "es": "cansado",
+      "hu": "fáradt",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.enfermo",
+      "category": "Adjetivos",
+      "es": "enfermo",
+      "hu": "beteg",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.inteligente",
+      "category": "Adjetivos",
+      "es": "inteligente",
+      "hu": "intelligens, okos",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.cerrado",
+      "category": "Adjetivos",
+      "es": "cerrado",
+      "hu": "zárva, zárt",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.roto",
+      "category": "Adjetivos",
+      "es": "roto",
+      "hu": "törött, elromlott",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.maduro",
+      "category": "Adjetivos",
+      "es": "maduro",
+      "hu": "érett",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.verde",
+      "category": "Adjetivos",
+      "es": "verde",
+      "hu": "zöld (ill. éretlen gyümölcs)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.amarillo",
+      "category": "Adjetivos",
+      "es": "amarillo",
+      "hu": "sárga",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.rico_comida",
+      "category": "Adjetivos",
+      "es": "rico (comida)",
+      "hu": "finom (étel)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "adjetivos.feliz_felices",
+      "category": "Adjetivos",
+      "es": "feliz / felices",
+      "hu": "boldog / boldogok",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.el_pelo_el_cabello",
+      "category": "Físico",
+      "es": "el pelo / el cabello",
+      "hu": "a haj",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.los_ojos",
+      "category": "Físico",
+      "es": "los ojos",
+      "hu": "a szemek",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.la_estatura",
+      "category": "Físico",
+      "es": "la estatura",
+      "hu": "a testmagasság",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.las_gafas",
+      "category": "Físico",
+      "es": "las gafas",
+      "hu": "a szemüveg",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.el_aspecto_fisico",
+      "category": "Físico",
+      "es": "el aspecto físico",
+      "hu": "a külső megjelenés",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.tiene_el_pelo_largo",
+      "category": "Físico",
+      "es": "Tiene el pelo largo",
+      "hu": "Hosszú haja van",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.es_alto_y_delgado",
+      "category": "Físico",
+      "es": "Es alto y delgado",
+      "hu": "Magas és vékony",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "fisico.lleva_gafas",
+      "category": "Físico",
+      "es": "Lleva gafas",
+      "hu": "Szemüveget hord",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tener.tener_frio",
+      "category": "Tener",
+      "es": "tener frío",
+      "hu": "fázni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tener.tener_hambre",
+      "category": "Tener",
+      "es": "tener hambre",
+      "hu": "éhesnek lenni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tener.tener_sed",
+      "category": "Tener",
+      "es": "tener sed",
+      "hu": "szomjasnak lenni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tener.tener_calor",
+      "category": "Tener",
+      "es": "tener calor",
+      "hu": "melege van",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tener.tener_anos",
+      "category": "Tener",
+      "es": "tener … años",
+      "hu": "… éves",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_casa",
+      "category": "Lugares",
+      "es": "la casa",
+      "hu": "a ház, otthon",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_playa",
+      "category": "Lugares",
+      "es": "la playa",
+      "hu": "a strand, tengerpart",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_escuela",
+      "category": "Lugares",
+      "es": "la escuela",
+      "hu": "az iskola",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.el_restaurante",
+      "category": "Lugares",
+      "es": "el restaurante",
+      "hu": "az étterem",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_ciudad",
+      "category": "Lugares",
+      "es": "la ciudad",
+      "hu": "a város",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_habitacion",
+      "category": "Lugares",
+      "es": "la habitación",
+      "hu": "a szoba",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_isla",
+      "category": "Lugares",
+      "es": "la isla",
+      "hu": "a sziget",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.el_aula",
+      "category": "Lugares",
+      "es": "el aula",
+      "hu": "a tanterem",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.el_parque",
+      "category": "Lugares",
+      "es": "el parque",
+      "hu": "a park",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_calle",
+      "category": "Lugares",
+      "es": "la calle",
+      "hu": "az utca",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_cocina",
+      "category": "Lugares",
+      "es": "la cocina",
+      "hu": "a konyha",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_plaza",
+      "category": "Lugares",
+      "es": "la plaza",
+      "hu": "a tér",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.el_bar",
+      "category": "Lugares",
+      "es": "el bar",
+      "hu": "a bár, kávézó",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_biblioteca",
+      "category": "Lugares",
+      "es": "la biblioteca",
+      "hu": "a könyvtár",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.el_hospital",
+      "category": "Lugares",
+      "es": "el hospital",
+      "hu": "a kórház",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.el_hotel",
+      "category": "Lugares",
+      "es": "el hotel",
+      "hu": "a szálloda",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.la_parada_de_autobus",
+      "category": "Lugares",
+      "es": "la parada (de autobús)",
+      "hu": "a (busz)megálló",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.encima_de",
+      "category": "Lugares",
+      "es": "encima de",
+      "hu": "valaminek a tetején",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.debajo_de",
+      "category": "Lugares",
+      "es": "debajo de",
+      "hu": "valami alatt",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "lugares.al_lado_de",
+      "category": "Lugares",
+      "es": "al lado de",
+      "hu": "valami mellett",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.el_ordenador",
+      "category": "Cosas",
+      "es": "el ordenador",
+      "hu": "a számítógép",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_mesa",
+      "category": "Cosas",
+      "es": "la mesa",
+      "hu": "az asztal",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_silla",
+      "category": "Cosas",
+      "es": "la silla",
+      "hu": "a szék",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.el_lapiz_los_lapices",
+      "category": "Cosas",
+      "es": "el lápiz / los lápices",
+      "hu": "a ceruza / a ceruzák",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.el_libro",
+      "category": "Cosas",
+      "es": "el libro",
+      "hu": "a könyv",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_puerta",
+      "category": "Cosas",
+      "es": "la puerta",
+      "hu": "az ajtó",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.el_dinero",
+      "category": "Cosas",
+      "es": "el dinero",
+      "hu": "a pénz",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_pelicula",
+      "category": "Cosas",
+      "es": "la película",
+      "hu": "a film",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.el_examen",
+      "category": "Cosas",
+      "es": "el examen",
+      "hu": "a vizsga, dolgozat",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_fiesta",
+      "category": "Cosas",
+      "es": "la fiesta",
+      "hu": "a buli, ünnep",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_reunion",
+      "category": "Cosas",
+      "es": "la reunión",
+      "hu": "a megbeszélés, értekezlet",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_fruta",
+      "category": "Cosas",
+      "es": "la fruta",
+      "hu": "a gyümölcs",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_manzana",
+      "category": "Cosas",
+      "es": "la manzana",
+      "hu": "az alma",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_sopa",
+      "category": "Cosas",
+      "es": "la sopa",
+      "hu": "a leves",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.las_galletas",
+      "category": "Cosas",
+      "es": "las galletas",
+      "hu": "a keksz",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "cosas.la_madera",
+      "category": "Cosas",
+      "es": "la madera",
+      "hu": "a fa (anyag)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_amigo_la_amiga",
+      "category": "Personas",
+      "es": "el amigo / la amiga",
+      "hu": "a barát / a barátnő",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_hermano_la_hermana",
+      "category": "Personas",
+      "es": "el hermano / la hermana",
+      "hu": "a fiútestvér / a lánytestvér",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.la_abuela",
+      "category": "Personas",
+      "es": "la abuela",
+      "hu": "a nagymama",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_tio",
+      "category": "Personas",
+      "es": "el tío",
+      "hu": "a nagybácsi",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.los_padres",
+      "category": "Personas",
+      "es": "los padres",
+      "hu": "a szülők",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_la_estudiante",
+      "category": "Personas",
+      "es": "el / la estudiante",
+      "hu": "a diák",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_profesor_la_profesora",
+      "category": "Personas",
+      "es": "el profesor / la profesora",
+      "hu": "a tanár / a tanárnő",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_medico",
+      "category": "Personas",
+      "es": "el médico",
+      "hu": "az orvos",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.la_novia",
+      "category": "Personas",
+      "es": "la novia",
+      "hu": "a barátnő, menyasszony",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "personas.el_principe",
+      "category": "Personas",
+      "es": "el príncipe",
+      "hu": "a herceg",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_perro",
+      "category": "Animales",
+      "es": "el perro",
+      "hu": "a kutya",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_gato",
+      "category": "Animales",
+      "es": "el gato",
+      "hu": "a macska",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_leon",
+      "category": "Animales",
+      "es": "el león",
+      "hu": "az oroszlán",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.la_mariposa",
+      "category": "Animales",
+      "es": "la mariposa",
+      "hu": "a pillangó",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_gallo",
+      "category": "Animales",
+      "es": "el gallo",
+      "hu": "a kakas",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_gorrion",
+      "category": "Animales",
+      "es": "el gorrión",
+      "hu": "a veréb",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.la_serpiente",
+      "category": "Animales",
+      "es": "la serpiente",
+      "hu": "a kígyó",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.la_hormiga",
+      "category": "Animales",
+      "es": "la hormiga",
+      "hu": "a hangya",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_toro",
+      "category": "Animales",
+      "es": "el toro",
+      "hu": "a bika",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.la_ballena",
+      "category": "Animales",
+      "es": "la ballena",
+      "hu": "a bálna",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "animales.el_loro",
+      "category": "Animales",
+      "es": "el loro",
+      "hu": "a papagáj",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "articulos.el_la",
+      "category": "Artículos",
+      "es": "el / la",
+      "hu": "határozott névelő egyes szám (hímnem / nőnem)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "articulos.los_las",
+      "category": "Artículos",
+      "es": "los / las",
+      "hu": "határozott névelő többes szám",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "articulos.un_una",
+      "category": "Artículos",
+      "es": "un / una",
+      "hu": "határozatlan névelő egyes szám",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "articulos.unos_unas",
+      "category": "Artículos",
+      "es": "unos / unas",
+      "hu": "határozatlan névelő többes szám (néhány)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cero",
+      "category": "Números",
+      "es": "cero",
+      "hu": "0 (nulla)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.uno_un_una",
+      "category": "Números",
+      "es": "uno / un / una",
+      "hu": "1 (egy; főnév előtt un/una: un libro, una mesa)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.dos",
+      "category": "Números",
+      "es": "dos",
+      "hu": "2 (kettő)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.tres",
+      "category": "Números",
+      "es": "tres",
+      "hu": "3 (három)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cuatro",
+      "category": "Números",
+      "es": "cuatro",
+      "hu": "4 (négy)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cinco",
+      "category": "Números",
+      "es": "cinco",
+      "hu": "5 (öt)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.seis",
+      "category": "Números",
+      "es": "seis",
+      "hu": "6 (hat)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.siete",
+      "category": "Números",
+      "es": "siete",
+      "hu": "7 (hét)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.ocho",
+      "category": "Números",
+      "es": "ocho",
+      "hu": "8 (nyolc)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.nueve",
+      "category": "Números",
+      "es": "nueve",
+      "hu": "9 (kilenc)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.diez",
+      "category": "Números",
+      "es": "diez",
+      "hu": "10 (tíz)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.once",
+      "category": "Números",
+      "es": "once",
+      "hu": "11 (tizenegy)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.doce",
+      "category": "Números",
+      "es": "doce",
+      "hu": "12 (tizenkettő)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.trece",
+      "category": "Números",
+      "es": "trece",
+      "hu": "13 (tizenhárom)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.catorce",
+      "category": "Números",
+      "es": "catorce",
+      "hu": "14 (tizennégy)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.quince",
+      "category": "Números",
+      "es": "quince",
+      "hu": "15 (tizenöt)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.dieciseis",
+      "category": "Números",
+      "es": "dieciséis",
+      "hu": "16 (tizenhat)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.diecisiete",
+      "category": "Números",
+      "es": "diecisiete",
+      "hu": "17 (tizenhét)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.dieciocho",
+      "category": "Números",
+      "es": "dieciocho",
+      "hu": "18 (tizennyolc)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.diecinueve",
+      "category": "Números",
+      "es": "diecinueve",
+      "hu": "19 (tizenkilenc)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.veinte",
+      "category": "Números",
+      "es": "veinte",
+      "hu": "20 (húsz)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.veintiuno_veintiun_veintiuna",
+      "category": "Números",
+      "es": "veintiuno / veintiún / veintiuna",
+      "hu": "21 (huszonegy)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.veintidos",
+      "category": "Números",
+      "es": "veintidós",
+      "hu": "22 (huszonkettő)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.veintitres",
+      "category": "Números",
+      "es": "veintitrés",
+      "hu": "23 (huszonhárom)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.treinta",
+      "category": "Números",
+      "es": "treinta",
+      "hu": "30 (harminc)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.treinta_y_uno_treinta_y_un_treinta_y_una",
+      "category": "Números",
+      "es": "treinta y uno / treinta y un / treinta y una",
+      "hu": "31 (harmincegy; 30 fölött y köti össze)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cuarenta",
+      "category": "Números",
+      "es": "cuarenta",
+      "hu": "40 (negyven)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cuarenta_y_tres",
+      "category": "Números",
+      "es": "cuarenta y tres",
+      "hu": "43 (negyvenhárom)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cincuenta",
+      "category": "Números",
+      "es": "cincuenta",
+      "hu": "50 (ötven)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.sesenta",
+      "category": "Números",
+      "es": "sesenta",
+      "hu": "60 (hatvan)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.setenta",
+      "category": "Números",
+      "es": "setenta",
+      "hu": "70 (hetven)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.ochenta",
+      "category": "Números",
+      "es": "ochenta",
+      "hu": "80 (nyolcvan)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.ochenta_y_nueve",
+      "category": "Números",
+      "es": "ochenta y nueve",
+      "hu": "89 (nyolcvankilenc)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.noventa",
+      "category": "Números",
+      "es": "noventa",
+      "hu": "90 (kilencven)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.noventa_y_una",
+      "category": "Números",
+      "es": "noventa y una",
+      "hu": "91 (kilencvenegy, nőnemű főnév előtt)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cien_ciento",
+      "category": "Números",
+      "es": "cien / ciento",
+      "hu": "100 (száz; magában cien, 101 től ciento uno)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.ciento_uno",
+      "category": "Números",
+      "es": "ciento uno",
+      "hu": "101 (százegy)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.doscientos_doscientas",
+      "category": "Números",
+      "es": "doscientos / doscientas",
+      "hu": "200 (kétszáz; nemben egyezik: doscientas personas)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.trescientos",
+      "category": "Números",
+      "es": "trescientos",
+      "hu": "300 (háromszáz)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.trescientos_quince",
+      "category": "Números",
+      "es": "trescientos quince",
+      "hu": "315 (háromszáztizenöt)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.cuatrocientos",
+      "category": "Números",
+      "es": "cuatrocientos",
+      "hu": "400 (négyszáz)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.quinientos",
+      "category": "Números",
+      "es": "quinientos",
+      "hu": "500 (ötszáz, rendhagyó!)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.seiscientos",
+      "category": "Números",
+      "es": "seiscientos",
+      "hu": "600 (hatszáz)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.setecientos",
+      "category": "Números",
+      "es": "setecientos",
+      "hu": "700 (hétszáz, rendhagyó!)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.ochocientos",
+      "category": "Números",
+      "es": "ochocientos",
+      "hu": "800 (nyolcszáz)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.novecientos",
+      "category": "Números",
+      "es": "novecientos",
+      "hu": "900 (kilencszáz, rendhagyó!)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.mil",
+      "category": "Números",
+      "es": "mil",
+      "hu": "1000 (ezer; nem un mil!)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.dos_mil",
+      "category": "Números",
+      "es": "dos mil",
+      "hu": "2000 (kétezer)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.mil_quinientos_cuarenta_y_tres",
+      "category": "Números",
+      "es": "mil quinientos cuarenta y tres",
+      "hu": "1543",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.un_millon",
+      "category": "Números",
+      "es": "un millón",
+      "hu": "1 000 000 (egymillió)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.dos_millones",
+      "category": "Números",
+      "es": "dos millones",
+      "hu": "2 000 000 (kétmillió)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "numeros.dos_euros_con_cincuenta_centimos",
+      "category": "Números",
+      "es": "dos euros con cincuenta (céntimos)",
+      "hu": "2,50 euró",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.despertarse",
+      "category": "Rutina",
+      "es": "despertarse",
+      "hu": "felébredni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.levantarse",
+      "category": "Rutina",
+      "es": "levantarse",
+      "hu": "felkelni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.ducharse",
+      "category": "Rutina",
+      "es": "ducharse",
+      "hu": "zuhanyozni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.banarse",
+      "category": "Rutina",
+      "es": "bañarse",
+      "hu": "fürdeni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.darse_un_bano",
+      "category": "Rutina",
+      "es": "darse un baño",
+      "hu": "megfürdeni (kádban)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.lavarse_la_cara",
+      "category": "Rutina",
+      "es": "lavarse la cara",
+      "hu": "megmosni az arcát",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.lavarse_las_manos",
+      "category": "Rutina",
+      "es": "lavarse las manos",
+      "hu": "kezet mosni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.cepillarse_los_dientes",
+      "category": "Rutina",
+      "es": "cepillarse los dientes",
+      "hu": "fogat mosni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.peinarse",
+      "category": "Rutina",
+      "es": "peinarse",
+      "hu": "megfésülködni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.afeitarse",
+      "category": "Rutina",
+      "es": "afeitarse",
+      "hu": "borotválkozni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.vestirse",
+      "category": "Rutina",
+      "es": "vestirse",
+      "hu": "felöltözni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.ir_al_bano",
+      "category": "Rutina",
+      "es": "ir al baño",
+      "hu": "WC-re menni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.desayunar",
+      "category": "Rutina",
+      "es": "desayunar",
+      "hu": "reggelizni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.almorzar",
+      "category": "Rutina",
+      "es": "almorzar",
+      "hu": "ebédelni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.cenar",
+      "category": "Rutina",
+      "es": "cenar",
+      "hu": "vacsorázni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.tomar_cafe",
+      "category": "Rutina",
+      "es": "tomar café",
+      "hu": "kávézni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.cocinar",
+      "category": "Rutina",
+      "es": "cocinar",
+      "hu": "főzni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.hacer_la_cena",
+      "category": "Rutina",
+      "es": "hacer la cena",
+      "hu": "vacsorát készíteni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.hacer_la_cama",
+      "category": "Rutina",
+      "es": "hacer la cama",
+      "hu": "beágyazni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.salir_de_casa",
+      "category": "Rutina",
+      "es": "salir de casa",
+      "hu": "elindulni otthonról",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.volver_a_casa",
+      "category": "Rutina",
+      "es": "volver a casa",
+      "hu": "hazamenni, hazaérni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.ir_al_colegio_ir_a_la_escuela",
+      "category": "Rutina",
+      "es": "ir al colegio / ir a la escuela",
+      "hu": "iskolába menni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.ir_al_trabajo",
+      "category": "Rutina",
+      "es": "ir al trabajo",
+      "hu": "munkába menni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.tener_clases",
+      "category": "Rutina",
+      "es": "tener clases",
+      "hu": "órája van (iskolában)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.coger_el_autobus",
+      "category": "Rutina",
+      "es": "coger el autobús",
+      "hu": "felszállni a buszra, busszal menni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.coger_el_tren",
+      "category": "Rutina",
+      "es": "coger el tren",
+      "hu": "vonattal menni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.asistir_a_una_reunion",
+      "category": "Rutina",
+      "es": "asistir a una reunión",
+      "hu": "részt venni egy megbeszélésen",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.hablar_por_telefono",
+      "category": "Rutina",
+      "es": "hablar por teléfono",
+      "hu": "telefonálni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.hacer_los_deberes",
+      "category": "Rutina",
+      "es": "hacer los deberes",
+      "hu": "megcsinálni a házit",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.descansar",
+      "category": "Rutina",
+      "es": "descansar",
+      "hu": "pihenni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.dormir",
+      "category": "Rutina",
+      "es": "dormir",
+      "hu": "aludni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.acostarse",
+      "category": "Rutina",
+      "es": "acostarse",
+      "hu": "lefeküdni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "rutina.ir_a_dormir_irse_a_la_cama",
+      "category": "Rutina",
+      "es": "ir a dormir / irse a la cama",
+      "hu": "aludni menni, ágyba bújni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.hacer_la_compra",
+      "category": "Casa",
+      "es": "hacer la compra",
+      "hu": "bevásárolni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.limpiar_la_casa",
+      "category": "Casa",
+      "es": "limpiar la casa",
+      "hu": "kitakarítani a lakást",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.barrer_el_suelo",
+      "category": "Casa",
+      "es": "barrer el suelo",
+      "hu": "felsöpörni a padlót",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.fregar_los_platos_lavar_los_platos",
+      "category": "Casa",
+      "es": "fregar los platos / lavar los platos",
+      "hu": "elmosogatni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.planchar_la_ropa",
+      "category": "Casa",
+      "es": "planchar la ropa",
+      "hu": "vasalni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.ordenar_la_habitacion_recoger_la_habitacion",
+      "category": "Casa",
+      "es": "ordenar la habitación / recoger la habitación",
+      "hu": "rendet rakni a szobában",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.sacar_la_basura",
+      "category": "Casa",
+      "es": "sacar la basura",
+      "hu": "kivinni a szemetet",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.regar_las_plantas",
+      "category": "Casa",
+      "es": "regar las plantas",
+      "hu": "meglocsolni a növényeket",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.lavar_el_coche",
+      "category": "Casa",
+      "es": "lavar el coche",
+      "hu": "autót mosni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.pasear_al_perro",
+      "category": "Casa",
+      "es": "pasear al perro",
+      "hu": "sétáltatni a kutyát",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.alimentar_a_la_mascota",
+      "category": "Casa",
+      "es": "alimentar a la mascota",
+      "hu": "megetetni a háziállatot",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "casa.alimentar_a_los_gatos",
+      "category": "Casa",
+      "es": "alimentar a los gatos",
+      "hu": "megetetni a macskákat",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.dar_un_paseo_salir_a_pasear",
+      "category": "Tiempo libre",
+      "es": "dar un paseo / salir a pasear",
+      "hu": "sétálni egyet",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.quedar_con_amigos",
+      "category": "Tiempo libre",
+      "es": "quedar con amigos",
+      "hu": "találkozni a barátokkal",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.ir_al_cine",
+      "category": "Tiempo libre",
+      "es": "ir al cine",
+      "hu": "moziba menni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.ver_la_television",
+      "category": "Tiempo libre",
+      "es": "ver la televisión",
+      "hu": "tévét nézni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.escuchar_musica",
+      "category": "Tiempo libre",
+      "es": "escuchar música",
+      "hu": "zenét hallgatni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.escuchar_la_radio_oir_la_radio",
+      "category": "Tiempo libre",
+      "es": "escuchar la radio / oír la radio",
+      "hu": "rádiót hallgatni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.leer_un_libro",
+      "category": "Tiempo libre",
+      "es": "leer un libro",
+      "hu": "könyvet olvasni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.navegar_por_internet",
+      "category": "Tiempo libre",
+      "es": "navegar por internet",
+      "hu": "internetezni, böngészni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_a_videojuegos",
+      "category": "Tiempo libre",
+      "es": "jugar a videojuegos",
+      "hu": "videójátékozni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_a_las_cartas",
+      "category": "Tiempo libre",
+      "es": "jugar a las cartas",
+      "hu": "kártyázni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_al_ajedrez",
+      "category": "Tiempo libre",
+      "es": "jugar al ajedrez",
+      "hu": "sakkozni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.tocar_la_guitarra",
+      "category": "Tiempo libre",
+      "es": "tocar la guitarra",
+      "hu": "gitározni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.tocar_el_piano",
+      "category": "Tiempo libre",
+      "es": "tocar el piano",
+      "hu": "zongorázni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.hacer_ejercicio",
+      "category": "Tiempo libre",
+      "es": "hacer ejercicio",
+      "hu": "edzeni, mozogni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.nadar",
+      "category": "Tiempo libre",
+      "es": "nadar",
+      "hu": "úszni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.montar_en_bicicleta",
+      "category": "Tiempo libre",
+      "es": "montar en bicicleta",
+      "hu": "biciklizni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.hacer_judo",
+      "category": "Tiempo libre",
+      "es": "hacer judo",
+      "hu": "dzsúdózni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_al_futbol",
+      "category": "Tiempo libre",
+      "es": "jugar al fútbol",
+      "hu": "focizni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_al_baloncesto",
+      "category": "Tiempo libre",
+      "es": "jugar al baloncesto",
+      "hu": "kosarazni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_al_tenis",
+      "category": "Tiempo libre",
+      "es": "jugar al tenis",
+      "hu": "teniszezni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo_libre.jugar_al_padel",
+      "category": "Tiempo libre",
+      "es": "jugar al pádel",
+      "hu": "padelezni",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo.el_martes",
+      "category": "Tiempo",
+      "es": "el martes",
+      "hu": "kedd",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo.la_hora",
+      "category": "Tiempo",
+      "es": "la hora",
+      "hu": "az óra (időpont)",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo.la_tarde",
+      "category": "Tiempo",
+      "es": "la tarde",
+      "hu": "a délután",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo.la_noche",
+      "category": "Tiempo",
+      "es": "la noche",
+      "hu": "az éjszaka, este",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "tiempo.manana",
+      "category": "Tiempo",
+      "es": "mañana",
+      "hu": "holnap",
+      "lesson": null,
+      "addedAt": "2026-11-09"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "id": "g01-sonidos",
+  "titleHu": "Kiejtés és hangok",
+  "subtitleEs": "a, e, i, o, u",
+  "order": 1,
+  "level": "A1",
+  "status": "taken",
+  "sections": [
+    {
+      "type": "text",
+      "title": "Jó hír",
+      "body": "A spanyolt nagyjából úgy ejted, ahogy írod, mint a magyart. Öt magánhangzó van: **a, e, i, o, u**. Mindig tisztán és röviden ejted őket.\nNincs hosszú és rövid pár, mint a magyar a/á vagy e/é. Az ékezet (á, é, í, ó, ú) **nem hosszúságot jelöl, hanem a hangsúlyt**."
+    },
+    {
+      "type": "table",
+      "title": "Betűk, amik másképp szólnak",
+      "columns": [
+        "Betű",
+        "Kiejtés",
+        "Példa"
+      ],
+      "rows": [
+        [
+          "c + a, o, u",
+          "k",
+          "la casa, la cocina"
+        ],
+        [
+          "c + e, i",
+          "angol th (mint a thing)",
+          "la cena, el cine"
+        ],
+        [
+          "z",
+          "angol th",
+          "la plaza, el lápiz"
+        ],
+        [
+          "qu + e, i",
+          "k (az u néma)",
+          "quiero, el queso"
+        ],
+        [
+          "g + a, o, u",
+          "g",
+          "el gato, el gallo"
+        ],
+        [
+          "g + e, i",
+          "erős torokhang (mint a spanyol j)",
+          "la gente"
+        ],
+        [
+          "gu + e, i",
+          "g (az u néma)",
+          "la guitarra"
+        ],
+        [
+          "j",
+          "erős torokhang (mint a német ach)",
+          "jugar, los ojos"
+        ],
+        [
+          "ll",
+          "j",
+          "la calle, llamarse"
+        ],
+        [
+          "y",
+          "j",
+          "yo, la playa"
+        ],
+        [
+          "ñ",
+          "ny",
+          "España, mañana"
+        ],
+        [
+          "h",
+          "néma",
+          "hola, el hospital"
+        ],
+        [
+          "ch",
+          "cs",
+          "la noche, el coche"
+        ],
+        [
+          "s",
+          "sz",
+          "la casa, la sopa"
+        ],
+        [
+          "v",
+          "b (nincs v hang)",
+          "vivir, viajar"
+        ],
+        [
+          "r (szó közben)",
+          "egy pergetés",
+          "pero, caro"
+        ],
+        [
+          "rr, r szó elején",
+          "erős pergetés",
+          "el perro, rojo"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "title": "Hangsúly",
+      "columns": [
+        "Szabály",
+        "Példa"
+      ],
+      "rows": [
+        [
+          "magánhangzóra, n-re vagy s-re végződik: az utolsó előtti szótag",
+          "CA-sa, HA-blan, LI-bros"
+        ],
+        [
+          "más mássalhangzóra végződik: az utolsó szótag",
+          "ha-BLAR, ciu-DAD, ho-TEL"
+        ],
+        [
+          "van ékezet: ott a hangsúly",
+          "ca-FÉ, LÁ-piz, MÚ-si-ca"
+        ]
+      ]
+    },
+    {
+      "type": "tip",
+      "title": "Magyarul",
+      "body": "A magyarban mindig az első szótag hangsúlyos, a spanyolban nem. Ez a leggyakoribb magyar akcentus-hiba.\nAz ékezet néha jelentést is megkülönböztet: **tú** (te) és **tu** (a te...), **él** (ő) és **el** (a, az), **sí** (igen) és **si** (ha)."
+    },
+    {
+      "type": "examples",
+      "title": "Példák",
+      "items": [
+        {
+          "es": "Hola, me llamo Tomi.",
+          "hu": "Szia, Tominak hívnak."
+        },
+        {
+          "es": "Mañana voy a la playa.",
+          "hu": "Holnap a strandra megyek."
+        },
+        {
+          "es": "El perro está en la calle.",
+          "hu": "A kutya az utcán van."
+        },
+        {
+          "es": "La cena es a las nueve.",
+          "hu": "A vacsora kilenckor van."
+        },
+        {
+          "es": "Mi hermano juega al fútbol.",
+          "hu": "A fiútestvérem focizik."
+        },
+        {
+          "es": "El hospital está cerca.",
+          "hu": "A kórház közel van."
+        },
+        {
+          "es": "Quiero un café, por favor.",
+          "hu": "Kérek egy kávét."
+        }
+      ]
+    },
+    {
+      "type": "warning",
+      "title": "Figyelj!",
+      "body": "Ezeket rontják el a magyarok a leggyakrabban:",
+      "items": [
+        "A h néma: hola = „ola”.",
+        "Az s mindig sz: casa = „kasza”, nem „kása”.",
+        "A z és a ce, ci Spanyolországban th-hang: cena = „thena”.",
+        "Az ll és az y j-nek hangzik: calle = „kaje”, playa = „plaja”.",
+        "pero (de) és perro (kutya): egy vagy két r más szó.",
+        "Az ékezetes magánhangzót ne nyújtsd meg: café rövid, hangsúlyos é-vel."
+      ]
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "multipleChoice",
+      "prompt": "Hogyan ejted a h betűt a hola szóban?",
+      "options": [
+        "Néma, nem ejtjük",
+        "Mint a magyar h",
+        "Mint a ch"
+      ],
+      "answer": 0,
+      "explanation": "A spanyolban a h mindig néma: hola = „ola”, hospital = „oszpital”."
+    },
+    {
+      "id": "q2",
+      "type": "multipleChoice",
+      "prompt": "Melyik szóban van erős, pergetett r?",
+      "options": [
+        "pero",
+        "perro",
+        "caro"
+      ],
+      "answer": 1,
+      "explanation": "Az rr erős pergetés. perro = kutya, pero = de."
+    },
+    {
+      "id": "q3",
+      "type": "multipleChoice",
+      "prompt": "Hol a hangsúly: hablan?",
+      "options": [
+        "HA-blan",
+        "ha-BLAN"
+      ],
+      "answer": 0,
+      "explanation": "n-re végződik, ezért az utolsó előtti szótag hangsúlyos."
+    },
+    {
+      "id": "q4",
+      "type": "multipleChoice",
+      "prompt": "Melyik szó hangsúlya esik az utolsó szótagra?",
+      "options": [
+        "casa",
+        "hablar",
+        "libro"
+      ],
+      "answer": 1,
+      "explanation": "Az r-re végződő szó az utolsó szótagon hangsúlyos: ha-BLAR."
+    },
+    {
+      "id": "q5",
+      "type": "multipleChoice",
+      "prompt": "Mit jelöl az ékezet a spanyolban?",
+      "options": [
+        "A hangsúly helyét",
+        "Hosszú magánhangzót",
+        "Halk magánhangzót"
+      ],
+      "answer": 0,
+      "explanation": "Az á, é, í, ó, ú nem hosszú, csak hangsúlyos."
+    },
+    {
+      "id": "q6",
+      "type": "match",
+      "prompt": "Párosítsd a betűt a hangjával!",
+      "pairs": [
+        {
+          "es": "ñ",
+          "hu": "ny"
+        },
+        {
+          "es": "ll",
+          "hu": "j"
+        },
+        {
+          "es": "ch",
+          "hu": "cs"
+        },
+        {
+          "es": "s",
+          "hu": "sz"
+        },
+        {
+          "es": "h",
+          "hu": "néma"
+        }
+      ],
+      "explanation": "Ezek a betűk másképp szólnak, mint magyarul."
+    },
+    {
+      "id": "q7",
+      "type": "fillBlank",
+      "prompt": "Pótold a hiányzó betűt: ma___ana (holnap)",
+      "answers": [
+        "ñ"
+      ],
+      "explanation": "mañana: az ñ = ny."
+    },
+    {
+      "id": "q8",
+      "type": "multipleChoice",
+      "prompt": "Mit jelent: tú?",
+      "options": [
+        "te",
+        "a te (birtokos)",
+        "ő"
+      ],
+      "answer": 0,
+      "explanation": "Ékezettel tú = te. Ékezet nélkül tu = a te...: tu libro (a könyved)."
+    },
+    {
+      "id": "q9",
+      "type": "translateToHu",
+      "prompt": "el perro",
+      "answers": [
+        "a kutya",
+        "kutya"
+      ],
+      "explanation": "perro (rr) = kutya, pero (r) = de."
+    }
+  ]
+}
