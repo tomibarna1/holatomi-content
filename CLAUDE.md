@@ -8,6 +8,7 @@ Tomi kezdő (A1), magyar anyanyelvű, magántanárral tanul. A magyar szöveg te
 
 ## Munkafolyamat (minden változtatásnál)
 
+0. Ha még nincs helyben: `gh repo clone tomibarna1/holatomi-content && cd holatomi-content` (vagy `git pull`, ha már megvan).
 1. Szerkeszd a JSON-t (lásd sémák lent).
 2. Ha új kártya jön: `id` egyedi, stabil, sosem változik.
 3. Növeld a `vocab.json` `deckVersion` mezőjét, ha kártya változott.
@@ -16,6 +17,8 @@ Tomi kezdő (A1), magyar anyanyelvű, magántanárral tanul. A magyar szöveg te
 6. `git add -A && git commit -m "content: ..." && git push`.
 
 Az app a következő frissítéskor (indítás, lehúzás, háttér) letölti, és kiírja: „X új szó érkezett”. Tomi haladása megmarad.
+
+Az app a `main` ág legutóbbi commitjára fordítja a címet (GitHub API), így push után azonnal az új tartalmat kapja. Ha az API épp nem elérhető, a nyers `main` utat használja, ami legfeljebb 5 percig még a régi lehet: ilyenkor pár perc múlva érdemes újra frissíteni.
 
 ## Szabályok, amik a haladást védik
 
